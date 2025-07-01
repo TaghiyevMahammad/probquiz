@@ -1,0 +1,4532 @@
+1. If the letters word 'Daughter' are to be arranged so that vowels occupy the odd places, then number of different words are
+• 23
+• 64
+• 12
+• 3
+√ 2880
+2. There are red, yellow and green lollipops in a bag. What is the probability of selecting a blue one?
+• 1/4
+√ 0
+• 1/5
+• 1/3
+• 1/2
+3. The total number of 9 digits numbers of different digits is
+• 75
+√ 9!
+• 79
+• 235
+• 46
+4. The number of ways in which a person can chose one or more of the four electa appliances : T.V, Refrigerator, Washing Machine and a
+cooler is
+• 42
+• 68
+√ 15
+• 43
+• 56
+5. A person has 8 friends. The number of ways in which he may invite one or more of thai to a dinner is.
+• 346
+√ 255
+• 345
+• 435
+• 757
+6. 5 persons are sitting in a round table in such way that Tallest Person is always on the right- side of the shortest person; the number of
+such arrangements is
+• 2
+√ 6
+• 5
+• 4
+• 3
+7. The number of ways in which the letters of the word MOBILE be arranged so that consonants always occupy the odd places is
+• 76
+• 43
+√ 36
+• 87
+• 65
+8. The number of arrangements in which the letters of the word MONDAY be arranged so that the words thus formed begin with M and do
+not end with N is
+√ 96
+• 12
+• 76
+• 45
+• 34
+9. There are 10 trains plying between Calcutta and Delhi. The number of ways in which a person can go from Calcutta to Delhi and return
+by a different train is
+• 76
+• 46
+√ 90
+• 87
+• 14
+10. In a group of boys the number of arrangement of 4 boys is 12 times the number of arrangements of 2 boys.The number boys in the
+group is
+• 3
+• 2
+√ 6
+• 5
+• 4
+11. The number of numbers lying between 10 and 1000 can be formed with the digits 2,3,4,0,8,9 is
+• 463
+• 124
+• 457
+• 346
+√ 125
+12. The number of numbers lying between 100 and 1000 can be formed with the digits 1,2,3, 4, 5, 6, 7 is
+√ 210
+• 124
+• 784
+• 457
+• 523
+13. Mr. X and Mr. Y enter into a railway compartment having six vacant seats. The number of ways in which they can occupy the seats is
+• 67
+• 86
+• 63
+√ 30
+• 23
+14. The number of permutations of 10 different things taken 4 at a time in which one particular thing never occurs is
+• 37
+√ 3024
+• 658
+• 3568
+• 568
+15. The number of arrangements of 10 different things taken 4 at a time in which one particular thing always occurs is
+• 3764
+• 3747
+• 6356
+• 356
+√ 2016
+16. The number of ways in which the letters of the word DOGMATIC can be arranged is
+• 40322
+• 40324
+√ 40320
+• 4032
+• 40328
+17. 3 ladies and 3 gents can be seated at a round table so that any two and only two of the ladies sit together. The number of ways is
+• 97
+• 57
+√ 72
+• 74
+• 78
+18. The number of ways in which 7 boys sit in a round -table so that two particular boys may sit together is
+√ 240
+• 356
+• 234
+• 645
+• 25
+19. The number of ways in which 7 girls form a ring is
+• 63
+• 8
+• 7
+• 6
+√ 720
+20. The number of ways the letters of the word "Triangle" to be arranged so that the word 'angle' will be always present is
+• 1
+• 3
+• 4
+• 2
+√ 24
+21. 4 digit numbers to be formed out of the figures 0, 1, 2, 3, 4 (no digit is repeated) then number of such numbers is
+• 94
+• 99
+• 95
+• 98
+√ 96
+22. jar contains 4 green marbles, 5 red marbles, and 11 white marbles. If one marble is chosen at random, what is the probability that it will
+NOT be green?
+√ 4/5
+• 4/7
+• 4/8
+• 4/9
+• 4/6
+23. A jar contains 4 green marbles, 5 red marbles, and 11 white marbles. If one marble is chosen at random, what is the probability that it
+will be green?
+√ 1/5
+• 1/7
+• 1/8
+• 1/9
+• 1/6
+24. A phone number has 10 digits (0, 1, 2, ..., 9). How different phone numbers are there?
+√ 1x10^10
+• 1x10^11
+• 1x10^12
+• 1x10^13
+• 1x10^9
+25. A phone number has 10 digits (0, 1, 2, ..., 9). How many phone numbers consist of 10 digits where none of the digits repeat?
+√ 3,628,800
+• 3,628,8
+• 3,628,
+• 3,628
+• 3,628,80
+26. There are 10 different cereals at the grocery store. 5 of the 10 cereals are made by General Mills. What is the probability of randomly
+choosing 3 boxes and having none of the three boxes be General Mills?
+• 1/15
+√ 1/12
+• 1/13
+• 1/14
+• 1/16
+27. There are 10 different cereals at the grocery store. 5 of the 10 cereals are made by General Mills. What is the probability of randomly
+choosing 3 boxes and having all three be General MIlls brand?
+√ 1/12
+• 1/14
+• 1/15
+• 1/16
+• 1/13
+28. There are 10 different cereals at the grocery store. How many different ways can you choose 3 boxes of cereal (you cannot pick two of
+the same type)?
+• 121
+• 123
+• 124
+√ 120
+• 122
+29. At the school cafeteria, 4 boys and 3 girls are forming a lunch line. If the boys must stand in the first two and last two places in line,
+how many different lines can be formed?
+√ 144
+• 146
+• 147
+• 148
+• 145
+30. John needs to pick up his clothes for the day. He can choose from 6 different shirts, 4 different pairs of pants, and 8 different socks. If an
+outfit consists of 1 shirt, 1 pair of pants, and 2 socks, how many different outfits could he choose?
+√ 672
+• 674
+• 675
+• 676
+• 673
+31. A certain bank issues 4-digit identification codes to its customers using numbers 0, 1, 2, ..., 9. How many different codes are possible?
+√ 10,000
+• 10,0
+• 10,
+• 10,0000
+• 10,00
+32. A menu offers 4 choices for the first course, 5 choices for the second course, and 2 courses for dessert. How many different meals,
+consisting of a first course, a second course, and a dessert, can one choose from this menu?
+√ 40
+• 42
+• 43
+• 44
+• 41
+33. A restaurant’s fixed-price special dinner consists of an appetizer, an entrée, and dessert. If the restaurant offers 5 different types of
+appetizers, 5 different types of entrees, and 4 different types of desserts, how many different ways to order a fixed-price special dinner?
+√ 100
+• 102
+• 103
+• 104
+• 101
+34. A certain bank issues 3-letter identification codes to its customers. If each letter can be used only once per code, how many different
+codes are possible?
+√ 15,600
+• 15,602
+• 15,603
+• 15,604
+• 15,601
+35. Kareem has 4 sweaters, 6 shirts, and 3 pairs of slacks. How many distinct outfits, each consisting of a sweater, a shirt, and a pair of
+slacks, can Kareem select?
+√ 72
+• 74
+• 75
+• 76
+• 73
+36. How many 4-person committees can be formed from a club of 12 members?
+√ 495
+• 497
+• 498
+• 499
+• 496
+37. Of the 40 dogs at the animal shelter, 12 are purebred. If 1 of the 40 dogs is selected at random, what is the probability that it is purebred?
+√ 30
+• 32
+• 33
+• 34
+• 31
+38. 10 people wait in line for a movie. How many different ways can the line be arranged?
+√ 3,628,800
+• 3,628,802
+• 3,628,803
+• 3,628,804
+• 3,628,801
+39. Pizza Hut offers 15 different toppings. Assuming no topping can be repeated on a single pizza, how many different 3 topping pizzas be
+created?
+√ 455
+• 453
+• 452
+• 451
+• 454
+40. There are 30 students in a statistics class. How many ways can the teacher pick out a group of 5 students?
+√ 142,506
+• 142,504
+• 142,503
+• 142,502
+• 142,505
+41. In how many ways can a first prize, a second prize and four identical third prizes be awarded to a group of 15 people?
+√ 150,150
+• 150,152
+• 150,153
+• 150,154
+• 150,151
+42. In a new group of 15 employees at a restaurant, 10 are to be assigned as servers, 3 are to be assigned as hosts, and 2 are to be assigned
+as cashiers. In how many ways can the assignment be made?
+√ 30,030
+• 30,034
+• 30,033
+• 30,032
+• 30,031
+43.
+Serial numbers for a product are to be made using three letters (using any letter of the alphabet) followed by two single-digit numbers.
+For example, JGR29 is one such serial number. How many such serial numbers are possible if neither letters nor numbers can be
+repeated?
+• 1,404,001
+√ 1,404,000
+• 1,404,004
+• 1,404,003
+• 1,404,002
+44. There are 20 people who work in an office together. Four of these people are selected to attend four different conferences. The first
+person selected will go to a conference in New York, the second will go to Chicago, the third to San Franciso, and the fourth to Miami.
+How many such selections are possible?
+• 116284
+√ 116280
+• 116281
+• 116282
+• 116283
+45. There are 20 people who work in an office together. Four of these people are selected to go to the same conference together. How many
+such selections are possible?
+• 4847
+• 4846
+√ 4845
+• 4849
+• 4848
+46. How many different combinations of 8 numbers are there?
+√ 40320
+• 8
+• 7
+• 6
+• 5
+47. How many combinations can be made with 5 numbers?
+• 4
+√ 120
+• 2
+• 3
+• 5
+48. How many different combinations of 4 items are there?
+• 5
+• 6
+√ 24
+• 3
+• 4
+49. How many different combinations of 3 numbers are there?
+• 2
+√ 6
+• 7
+• 9
+• 8
+50. The product of all positive integers less than or equal to n is...
+•
+Factor
+• Number
+• Figure
+√ N factorial
+• neither
+51. Which is an important parameter of permutation?
+• Only one item
+• neither
+√ Number of items being chosen at a time
+• Part of items
+• Some items
+52. A permutation could be referred to as...
+√ Ordered combination
+•
+Lag variable
+• Outlier
+• Nominal variable
+• neither
+53. Selections of some members of a set where order is disregarded is called...
+• Nomination
+• neither
+√ Combination
+• Arrangement
+• Permutation
+54. An arrangement or ordering of a number of distinct objects is...
+• Order
+√ Permutation
+• neither
+• Combination
+•
+Branching
+55. In a shooting test, the probability of hitting the target is 1/2 for A and 2/3 for B and 3/4 for C. Find the probability that all of them hit the
+target.
+√ 1/4
+• 1/5
+• 1/2
+• 1/3
+• 1/6
+56. In a shooting test, the probability of hitting the target is 1/2 for A and 2/3 for B and 3/4 for C. Find the probability that the target is hit
+• 23/28
+• 23/27
+• 23/26
+• 23/25
+√ 23/24
+57. If 3 cards are drawn simultaneously form a pack of well shuffled cards, find the probability of then being all Queen.
+•
+26/223
+•
+26/221
+√ None of these
+•
+26/220
+•
+26/222
+58. A bag contains four blue, three green and five red balls.If three balls are drawn at random, what is the probability that three is at least
+one red ball in the three balls?
+• 37/47
+• 37/48
+√ 37/44
+• 37/45
+• 37/46
+59. A bag contains four blue, three green and five red balls If three balls are drawn at random, what is the probability that all the three balls
+are of different colors?
+• 3/12
+√ 3/11
+• 3/10
+• 3/9
+• 3/15
+60. A bag contains four blue, three green and five red balls.If four balls are drawn at random, what is the probability that two are blue and
+two are green?
+• 2/50
+√ 2/55
+• 2/54
+• 2/53
+• 2/52
+61. A bag contains four blue, three green and five red balls.If three balls are drawn at random from the bag, then what is the probability that
+all are red?
+• 1/26
+√ 1/22
+• 1/23
+• 1/24
+• 1/25
+62. A bag contains 7 blue balls and 5 yellow balls. If two balls are selected at random, what is the probability that none is yellow?
+• 7/24
+• 7/23
+√ 7/22
+• 7/26
+• 7/25
+63. A card is drawn from a pack of 52 cards. The probability of getting a queen of club or a king of heart is:
+√ 1/26
+• 1/24
+• 1/23
+• 1/22
+• 1/25
+64. Three unbiased coins are tossed. What is the probability of getting at most two heads?
+√ 7/8
+• 6/8
+• 5/8
+• 4/8
+• 7/9
+65. Two dice are tossed. The probability that the total score is a prime number is:
+√ 5/12
+• 5/14
+• 5/15
+• 5/16
+• 5/13
+66. From a pack of 52 cards, two cards are drawn together at random. What is the probability of both the cards being kings?
+√ 1/221
+• 2/221
+• 3/221
+• 4/221
+• 1/220
+67. Two dice are thrown simultaneously. What is the probability of getting two numbers whose product is even?
+• 3/6
+• 1/4
+√ 3/4
+• 3/5
+• 3/7
+68. There are 12 boys and 8 girls in a tution centre. If three of them scored first mark, then what is the probability that one of the three is a
+girl and the other two are boys?
+√ 44/95
+• 43/95
+• 42/95
+• 41/95
+69. In a class, there are 12 boys and 16 girls. One of them is called out by an enroll number, what is the probability that the one called is a
+girl?
+√ 4/7
+• 4/6
+• 3/7
+• 2/7
+• 4/5
+70. What is the probability of paper losing to scissors?
+• 1/5
+√ 1/3
+• 1/2
+• 1/4
+• 1/6
+71. If you flipped a coin, what is the probability it will land on heads?
+√ 1/2
+• 1/3
+• 0
+• 1
+• 1/4
+72. What is the probability of rock beating paper?
+• 1/2
+• 2/3
+√ 0
+• 1/3
+• 1/4
+73. What is the probability of selecting the diamond suit from a deck of playing cards?
+√ 1/4
+• 1/2
+• 1/5
+• 1/6
+• 1/3
+74. A card is selected from a deck of playing cards. What is the probability of selecting a red card?
+√ 1/2
+• 1/4
+• 1/5
+• 1/6
+• 1/3
+75. A lolly bag contains 2 red, 3 green and 2 blue gum balls. What is the probability of selecting a green one?
+√ 3/7
+• 2/6
+• 2/5
+• 2/4
+• 2/7
+76. If you rolled a 6-sided dice, what is the probability of rolling a even number?
+√ 3/6
+• 2/6
+• 3/4
+• 3/7
+• 3/5
+77. If you flipped 2 coins, what is the probability that both will land on tails?
+√ 1/4
+• 1/7
+• 1/6
+• 1/5
+• 3/4
+78. If you rolled a 6-sided dice, what is the probability of rolling a 3?
+√ 1/6
+• 3/6
+•
+5/6
+•
+5/7
+• 2/3
+79. When a fair coin is flipped three times, what is the probability of getting exactly two heads?
+√ 3/8
+• none
+• 1/24
+• 1/3
+• 1/8
+80. In a lottery, there are 100 tickets and one winning ticket. If a person buys 10 tickets, what is the probability that they have the winning
+ticket?
+√ 0.1
+• none
+• 0.4
+• 0.3
+• 0.2
+81. Given that a card drawn from a standard deck is a face card, what is the probability that it is a king?
+√ 1/3
+• 0.2
+• none
+• 0.4
+• 1/7
+82. A couple has two children, and the older child is a girl. What is the probability that both children are girls?
+• none
+√ 0.5
+• 0.3
+• 0.1
+• 0.2
+83. A box contains 15 apples, 10 of which are red and 5 are green. What is the probability of randomly picking a green apple?
+√ 1/3
+• 2/3
+• 0.1
+• 0.3
+• none
+84. In a survey, 70% of respondents prefer tea, and 30% prefer coffee. If the preference for tea and coffee are mutually exclusive, what is
+the probability of a respondent not preferring tea?
+√ 0.3
+• none
+• 0.4
+• 0.1
+• 0.7
+85. What is the probability of rolling a number less than 4 on a fair six-sided die?
+• 0.7
+√ 0.5
+• 0.1
+• 0.3
+• none
+86. What is the probability of drawing a face card (King, Queen, or Jack) from a standard deck of 52 cards?
+• 2/13
+√ 3/13
+• none
+• 0.5
+• 0.1
+87. What is the probability of rolling an even number or a number greater than 3 on a fair six-sided die?
+• none
+√ 2/3
+• 1/3
+• 0.5
+• 0.6
+88. What is the probability of drawing either a king or a heart from a standard deck of 52 cards?
+• none
+• 1/13
+√ 4/13
+• 0.5
+• 0.6
+89. If the probability of an event A is 0.7, what is the probability of the complementary event ?
+√ 0.3
+• none
+• 1
+• 0.7
+• 0.2
+90. In a lottery, there are 100 tickets and only one winning ticket. What is the probability that a ticket bought is not the winning ticket?
+• none
+• 0.1
+• 1
+• 0.01
+√ 0.99
+91. What is the probability of rolling a number less than 5 on a fair six-sided die?
+√ 2/3
+• none
+• 1/6
+• 0.5
+• 1
+92. If a single card is drawn from a standard 52-card deck, what is the probability that the card is a king or a queen?
+• 0.5
+• 1/13
+√ 2/13
+• none
+• 1
+93. The probability of selecting a bad egg is 0.035 from the lot of 400 eggs. So, what is the number of bad eggs in the lot?
+• none
+√ 14
+• 17
+• 20
+• 35
+94. What will be the probability of losing a game if the winning probability is 0.3?
+• 1
+√ 0.7
+• 0.3
+• 0.5
+• none
+95. What is the probability of getting 1 and 5 if a dice is thrown once?
+√ 1/3
+• none
+• 1/6
+• 1/36
+• 1/2
+96. What is the probability of getting a sum as 3 if a dice is thrown?
+• none
+• 1/36
+√ 1/18
+• 1/6
+• 1/3
+97. What will be the value of P(not E) if P(E) = 0.07?
+• none
+√ 0.93
+• 0.83
+• 0.73
+• 0.07
+98. An event in the probability that will never be happened is called as:
+√ Impossible event
+• none
+• Unsure event
+• Sure event
+• Possible event
+99. In a box, there are 8 red, 7 blue and 6 green balls. One ball is picked up randomly. What is the probability that it is neither red nor
+green?
+• 3/5
+√ 1/3
+• none
+• 5/21
+• 8/21
+100. In a lottery, there are 10 prizes and 25 blanks. A lottery is drawn at random. What is the probability of getting a prize?
+• 1/2
+• none
+√ 2/7
+• 5/7
+• 1/5
+101. Rachel flips a biased coin. The probability that she gets two heads is 0.16. What is the probability that she gets two tails?
+• 0.6
+√ 0.36
+• none
+• 0.7056
+• 0.84
+102. Ifan rolls a fair dice, with sides labeled A, B, C, D, E and F. What is the probability that the dice lands on a vowel?
+• 1/2
+√ 1/3
+• none
+• 1/6
+• 1/4
+103. Two players, Sangeet and Rashmi, play a tennis match. The probability of Sangeet winning the match is 0.62. What is the probability
+that Rashmi will win the match?
+• 0.6
+• none
+• 0.62
+√ 0.38
+• 0.3
+104. What does the probability of an impossible event equal to?
+• -1
+√
+0
+•
+1/2
+•
+1
+• Cannot be determined
+105. Which of the following is an example of a random experiment?
+• None of the above
+• Writing an essay
+•
+Reading a book
+√
+Rolling a dice
+•
+Solving a math problem
+106. What is an outcome in the context of probability theory?
+•
+The process of performing an experiment
+• None of the above
+• The event
+•
+A type of probability
+√
+The result of an experiment
+107. If a single 6-sided die is rolled, what is the probability of rolling a 4?
+• 1/4
+√
+1/6
+•
+1/3
+•
+1/2
+• None of the above
+108. What is the probability of flipping a fair coin and it landing on heads?
+• 1
+• None of the above
+√ 1/2
+• 1/3
+• 1/5
+109. If the probability of an event occurring is 0.2, what is the probability of the event not occurring?
+• 0.3
+• 1
+• 0.2
+√ 0.8
+• 0.5
+110. If a bag contains 4 red balls and 6 blue balls, what is the probability of drawing a red ball?
+• 3/10
+• None of the above
+√ 2/5
+• 1/2
+• 3/5
+111. What does it mean if two events A and B are independent?
+• None of the above
+• The occurrence of B is dependent on A not occurring
+•
+The occurrence of A makes B impossible
+√ The occurrence of A has no effect on the probability of B occurring
+•
+The occurrence of A increases the probability of B occurring
+112. If two events A and B are mutually exclusive, what is P(A ∩ B)?
+• -1
+• Cannot be determined
+√ 0
+• 0.5
+• 1
+113. In a single toss of a fair coin, what is the probability of getting a head?
+√ 0.5
+• 0.25
+• Cannot be determined
+• 1
+• 0.75
+114. If P(A) = 0.5, what is the probability of the complement of A?
+• 2
+• Cannot be determined
+• 0
+• 1
+√
+0.5
+115. The complement of an event A is:
+•
+The event that A and B occur together
+•
+The event that A occurs
+• None of the above
+• The sum of all probabilities including A
+√
+The event that A does not occur
+116. The intersection of two events A and B is defined as:
+• The event that neither A nor B occurs
+•
+The event that either A or B occurs
+• None of the above
+• The event that A occurs without B occurring
+√
+The event that both A and B occur
+117. Which of the following represents the union of two events A and B?
+• The event that B occurs if A does not occur
+√
+The event that either A or B, or both, occur
+•
+The event that both A and B occur simultaneously
+•
+The event that A occurs if B does not occur
+• None of the above
+118. If the probability of an event happening is 1, what does it mean?
+•
+The event might occur
+•
+The event is impossible to occur
+• None of the above
+• The event's occurrence is random
+√
+The event is certain to occur
+119. The probability of any event is always between:
+√
+0 and 1, inclusive
+• -1 and 0, inclusive
+•
+0 and 100, inclusive
+•
+-1 and 1, inclusive
+• None of the above
+120. An event in probability theory is:
+• Any possible outcome of a random experiment
+• None of the above
+• An unexpected result in an experiment
+√
+A collection of one or more outcomes of a random experiment
+•
+A specific outcome that a researcher wishes to occur
+121. What is an outcome in the context of probability theory?
+√
+The result of an experiment
+• None of the above
+• The analysis of an experiment after it is done
+•
+A prediction made before an experiment
+•
+The process of conducting an experiment
+122. Which of the following best describes a random experiment?
+• An experiment that can only be performed once
+• None of the above
+• An experiment performed without any prior planning
+√ An experiment where the outcome cannot be predicted with certainty
+• An experiment with a guaranteed outcome
+123. How many ways can you arrange the letters in the word "BOOK"?
+• 48
+• none
+• 36
+• 24
+√ 12
+124. How many ways can you choose 2 desserts from a menu of 6 desserts?
+√ 15
+• 20
+• 30
+• none
+• 12
+125. How many different ways can 3 students be seated in a row from a group of 5 students?
+√ 60
+• 20
+• 120
+• none
+• 15
+126. How many ways can you select 2 marbles from a bag containing 4 red, 3 blue, and 5 green marbles?
+• 10
+• 78
+• none
+√ 66
+• 36
+127. How many different 2-letter combinations can be made from the letters A, B, C, and D?
+√ 12
+• 8
+• 10
+• none
+• 6
+128. How many ways can you choose 4 out of 7 different toppings for a pizza?
+√ 35
+• 28
+• 14
+• none
+• 21
+129. How many ways can you choose 3 items from a menu of 5 items?
+√ 10
+• 30
+• 40
+• none
+• 20
+130. How many ways can you choose 2 out of 4 different books to take on a trip?
+√ 6
+• 8
+• 12
+• none
+• 4
+131. How many ways can 5 students line up in a row?
+√ 120
+• 240
+• 720
+• none
+• 60
+132. In how many ways can you choose 3 different colors from a palette of 8 colors?
+√ 56
+• 72
+• 84
+• none
+• 24
+133. A restaurant offers 5 appetizers, 4 main courses, and 3 desserts. How many different three-course meals can be made?
+√ 60
+• 15
+• 5
+• none
+• 30
+134. How many ways can a team of 2 be chosen from a group of 6 people?
+• 12
+• 18
+• 30
+• none
+√ 15
+135. How many different ways can you arrange the letters in the word "PEAR"?
+• 12
+• 36
+• 48
+• none
+√ 24
+136. A restaurant menu has 3 appetizers, 5 main courses, and 4 desserts. How many different three-course meals can be ordered?
+• 12
+√ 60
+• 120
+• none
+• 30
+137. How many ways can 6 different books be arranged on a shelf if there are no restrictions on the arrangement?
+• 360
+• 120
+• 240
+• none
+√ 720
+138. How many ways can you distribute 5 identical apples to 3 children?
+• 9
+• none
+√ 7
+• 8
+• 10
+139. A locker combination consists of 3 digits from 0 to 9. How many different combinations are possible if repetition of digits is allowed?
+• 500
+• 900
+√ 1000
+• none
+• 600
+140. How many ways can you pick 2 out of 7 different colors?
+√ 21
+• 35
+• 42
+• none
+• 28
+141. In how many ways can a president and a vice-president be chosen from a group of 5 people?
+• 30
+√ 20
+• 10
+• 5
+• none
+142. How many ways can you arrange the letters in the word "BALL"?
+• 48
+• 36
+√ 24
+• none
+• 12
+143. A restaurant menu offers 3 appetizers, 4 main courses, and 2 desserts. How many different three-course meals can be ordered?
+• none
+• 12
+• 9
+• 18
+√ 24
+144. How many ways can you choose 3 letters from the set {A, B, C, D} if the order does not matter?
+• 12
+√ 4
+• 6
+• 8
+• none
+145. How many ways can you choose 2 out of 4 desserts?
+• 12
+• 8
+• 4
+√ 6
+• none
+146. How many ways can 4 students line up in a row for a photo?
+• 16
+• 32
+√ 24
+• none
+• 12
+147. How many different outcomes are possible when flipping a coin 4 times?
+• 12
+• none
+√ 16
+• 4
+• 8
+148. How many ways can you arrange the letters in the word "DOG"?
+• 3
+• none
+• 9
+• 12
+√ 6
+149. How many ways can 2 students be chosen from a class of 6 students?
+√ 15
+• 20
+• none
+• 12
+• 10
+150. If you roll a six-sided die, how many possible outcomes are there?
+√ 6
+• 12
+• 7
+• none
+• 5
+151. How many different 3-digit numbers can be formed using the digits 1, 2, and 3 without repetition?
+• 9
+• 3
+√ 6
+• none
+• 12
+152. How many ways can you select 3 fruits from a basket containing 5 different types of fruits?
+• 15
+√ 10
+• 5
+• 20
+• none
+153. How many ways can 2 people be chosen from a group of 5?
+• 5
+• none
+• 25
+• 20
+√ 10
+154. How many different 2-letter combinations can be made from the letters A, B, and C?
+• none
+• 12
+• 3
+√ 6
+• 9
+155. How many ways can you choose 1 apple from a basket of 5 apples?
+• none
+• 20
+• 10
+• 1
+√ 5
+156. How many ways can you flip a coin 3 times and get exactly 2 heads?
+• 5
+• 4
+√ 3
+• none
+• 6
+157. You have 4 different shirts and 3 different pairs of pants. How many different outfits can you make?
+• 6
+√ 12
+• none
+• 10
+• 24
+158. How many ways can 5 books be arranged on a shelf?
+• none
+• 24
+√ 120
+• 60
+• 12
+159. In how many ways can you choose 2 ice cream flavors from 5 available flavors?
+• none
+√ 10
+• 15
+• 20
+• 25
+160. How many ways can a committee of 3 be chosen from a group of 10 people?
+√ 120
+• none
+• 60
+• 100
+• 720
+161. A password consists of 4 digits, where each digit can be any number from 0 to 9. How many different passwords can be created?
+• none
+• 9K
+√ 10K
+• 1K
+• 6K
+162. How many different ways can you arrange the letters in the word "CAT"?
+√ 6
+• none
+• 12
+• 2
+• 3
+163. A bag contains 4 white, 5 red and 6 blue balls. Three balls are drawn at random from the bag. The probability that all of them are red, is:
+• none
+√ 2/91
+• 1/22
+• 3/22
+• 2/77
+164. How many different 4-letter sequences can be formed from the letters of the word "LOGIC" if each letter can only be used once?
+• none
+• 60
+√ 120
+• 5
+• 100
+165. In how many ways can a president and vice-president be chosen from a team of 6 people?
+• 15
+√ 30
+• 12
+• 36
+• None of the above
+166. How many ways can 5 different books be arranged on a shelf?
+• 60
+• 10
+• 5
+• 25
+√ 120
+167. What is 0! (zero factorial)?
+• 0
+• Undefined
+• None of the above
+• Infinity
+√ 1
+168. From a group of 4 people, how many ways can you choose 2 to form a team?
+• 10
+• 12
+• 4
+√ 6
+• 8
+169. How many different ways can the letters of the word "TOY" be arranged?
+• 12
+• None of the above
+√ 6
+• 3
+• 9
+170. What is the probability of not drawing a heart from a standard deck of playing cards in a single draw?
+• 1
+• none
+• 0.25
+• 0.5
+√ 0.75
+171. If P (A) = 0.8, P (B) = 0.5 and P (B|A) = 0.4, what is the value of P (A ∩ B)?
+√ 0.32
+• none
+• 0.5
+• 0.1
+• 0.25
+172. If P(A) = 7/13, P(B) = 9/13 and P(A∩B) = 4/13, evaluate P(A|B).
+• 1
+• none
+√ 4/9
+• 1/9
+• 1/4
+173. A dice and a coin are tossed simultaneously. Find the probability of obtaining a 6, given that a head came up.
+• 1/5
+• none
+• 1
+• 2/3
+√ 1/6
+174. If a family has two children, what is the conditional probability that both are girls if there is at least one girl?
+• 1/4
+• 1
+• none
+• 1/5
+√ 1/3
+175. A fair coin is tossed twice such that E: event of having both head and tail, and F: event of having atmost one tail. Find P(E|F)
+√ 2/3
+• none
+• 1/2
+• 1
+• 1/3
+176. A promotional game involves spinning a wheel that is equally divided into five sections, each labeled with different prizes of $0, $5,
+$10, $15, and $20. What is the expected value of the prize won per spin?
+• none
+√ 10
+• 5
+• 20
+• 15
+177. A dice game allows you to roll a single six-sided die with the following payouts: Roll a 1, win $1; roll a 2, win $2; and so on up to $6.
+What is the variance of the winnings?
+√ 2.92
+• none
+• 2.6
+• 1.5
+• 3.5
+178. A store sells three types of fruit: apples, bananas, and oranges. If the probability of a customer buying an apple is 0.3, a banana is 0.4,
+and an orange is 0.3, and the prices are $1, $1.5, and $2 respectively, what is the expected value of a sale?
+• none
+• 1
+• 0.5
+• 2
+√ 1.5
+179. Variance measures which of the following for a discrete random variable?
+• none
+• The total probability of the random variable
+√ The deviation of possible values from the expected value
+• The average value
+• The spread from the lowest to the highest value
+180. What is the expected value of a discrete random variable?
+• none
+• The probability that the random variable equals zero
+• The sum of the squares of the possible values of the random variable
+√ The weighted average of all possible values, where the weights are the probabilities
+• The highest probability of any single value of the random variable
+181. Which of the following is a table with all possible values of a random variable and its corresponding probabilities?
+• Probability Density Function
+√ Probability Distribution
+• Cumulative distribution function
+• none
+• Probability Mass Function
+182. In binomial distribution, successive trials are:
+• Inclusive
+• None
+• Mutually exclusive
+• Dependent
+√ Independent
+183. What does a correlation coefficient measure?
+• The mean difference between two variables.
+• The variance of two variables.
+• The average of two variables.
+• none
+√ The strength and direction of the linear relationship between two variables.
+184. What does it imply if the expected value of a continuous random variable
+X is zero?
+• none
+• X cannot take positive values.
+• The probability density function of X is symmetric around zero.
+• The total area under the probability density function is zero.
+√ The positive values of X are balanced by the negative values in terms of their probabilities.
+185. What is variance for a continuous random variable?
+• The difference between the highest and lowest values of the random variable.
+• The square of the expected value of the random variable.
+√ The expected value of the squared difference between the random variable and its expected value.
+• The probability density function squared and integrated over all possible values.
+• none
+186. What defines a continuous random variable?
+• It can take on only integer values.
+• none
+• It changes in stepwise increments.
+• It can only take on specific discrete values.
+√ It can take on any value within a given range.
+187. A company has 60% male and 40% female employees. 10% of males and 25% of females get promoted. If an employee is promoted,
+what is the probability the employee is female?
+√ 0.625
+• 0.46
+• 0.44
+• 0.5
+• 0.6
+188. A test has scores normally distributed with a mean of 80 and a standard deviation of 10. What score is at the 84th percentile
+(approximately)?
+• 82
+√ 90
+• 80
+• 75
+• 77
+189. In a standard normal distribution, approximately what percentage of values lie between z = -2 and z = 2?
+• 93
+√ 95
+• 99
+• 94
+• 96
+190. What is the z-score of a value 1.5 standard deviations below the mean?
+√ -1.5
+• 1
+• 2
+• -2
+• -1
+191. What describes the covariance between two random variables?
+• It measures the degree to which two variables are related in terms of their means.
+• none
+• It represents the sum of the variables' standard deviations.
+√ It quantifies the extent to which two random variables vary together.
+• It indicates the probability of one variable given the occurrence of another variable.
+192. What does it mean when two random variables are jointly distributed?
+• The variables are distributed one after the other in time.
+• none
+• Each variable is distributed uniformly.
+√ The distribution pertains to the combined behavior of two variables.
+• The variables are dependent on each other.
+193. What is a sample in the context of statistics?
+• A single data point from a population.
+• The entire set of data points in a study.
+• A hypothetical set of data points used for theoretical analysis.
+• none
+√ A subset of data points selected from a larger population.
+194. What type of graph is used to display the distribution of a dataset?
+• Pie chart
+• none
+• Scatter plot
+√ Histogram
+• Line graph
+195. Which graph is most suitable for displaying categorical data?
+√ Bar graph
+• Pie chart
+• Line graph
+• Scatter plot
+• none
+196. How is a line graph typically used in data presentation?
+• none
+• To compare quantities.
+• To display distributions.
+√ To show changes over time.
+• To depict correlations.
+197. Which type of graph is best for comparing the parts of a whole at a specific point in time?
+• Line graph
+• none
+• Scatter plot
+√ Pie chart
+• Histogram
+198. What is the purpose of using a histogram in data analysis?
+• To display the relationship between two variables.
+• none
+• To illustrate the sequence of data points over time.
+• To represent the exact values of data points.
+√ To show the frequency distribution of a single variable.
+199. What does the mode represent in a dataset?
+• The average value.
+• The middle value.
+• none
+• The difference between the highest and lowest values.
+√ The value that appears most frequently.
+200. What is the median of a dataset?
+• none
+• The average of all values.
+• The value that appears most frequently.
+√ The middle value in the dataset when it is ordered from smallest to largest.
+• The value that is one standard deviation away from the mean.
+201. What is the mean of a dataset?
+• The most frequently occurring value in the dataset.
+• The difference between the highest and lowest values.
+√ The sum of all the values divided by the number of values.
+• The middle value when the data is arranged in order.
+• none
+202. Which measure of variability is calculated by taking the square root of the variance?
+• Mean deviation.
+• none
+• Interquartile range.
+• Coefficient of variation.
+√ Standard deviation.
+203. What is the median absolute deviation (MAD) used for in statistics?
+• none
+√ To measure the spread of data points in relation to the median.
+• To calculate the average value of the dataset.
+• To determine the highest value in the dataset.
+• To identify the mean value of the dataset.
+204. Which of the following is a robust measure of variability that is less sensitive to outliers?
+• none
+• Range.
+• Variance.
+• Standard deviation.
+√ Interquartile range.
+205. Which measure of variability is not influenced by the size of the data set?
+• Median.
+• none
+• Variance.
+• Standard deviation.
+√ Coefficient of variation.
+206. What is the Law of Large Numbers in probability?
+• It states that all random variables will revert to the mean.
+• none
+√
+It states that as the number of trials increases, the experimental probability of an event will get closer to the theoretical probability of the
+event.
+• It states that smaller samples will better represent the population.
+• It states that the variance increases with more data.
+207. What does the standard deviation measure in a dataset?
+√ The spread of data points from the mean.
+• none
+• The highest value of the data.
+• The middle value of the data.
+• The average of all data points.
+208. Which measure of variability is most affected by outliers in the data?
+• none
+• Variance.
+• Standard deviation.
+√ Range.
+• Interquartile range.
+209. What does the range in a dataset represent?
+• None
+√ The difference between the maximum and minimum values in the dataset.
+• The average value of the dataset.
+• The middle value of the dataset.
+• The mean value.
+210. What is the purpose of a confidence interval in statistics?
+√ To provide a range of values that likely includes the true population parameter.
+• To test the validity of the data collected.
+• To calculate the p-value for hypothesis tests.
+• none
+• To determine the exact population parameter.
+211. 10 examination papers are arranged in such a way that the best and worst papers never come together. The number of arrangements is
+• 6
+• 4
+√ 8(9)!
+• 5
+• 3
+212. N articles are arranged in such a way that 2 particular articles never come together. The number of such arrangements is
+• n+1
+√ (n-2)(n-1)!
+• n-1
+• 1
+• n
+213. The number of 4 digit numbers greater than 5000 can be formed out of the digits 3, 4, 5, 6 and 7 (no. digit is repeated). The number of
+such is
+• 47
+√ 72
+• 55
+• 26
+• 62
+214. The sum of all 4 digit number containing the digits 2, 4, 6, 8, without repetitions is
+• 133
+√ 133320
+• 13332
+• 1333
+• 13
+215. If 12 school teams are participating in a quiz contest, then the number of ways the first, second and third positions may be won is
+• 1323
+• 1324
+√ 1320
+• 1321
+• 1322
+216. The number of arrangements of the letters in the word FAILURE, so that vowels are always! coming together is
+• 573
+• 572
+√ 576
+• 575
+• 574
+217. The number of ways the letters of the word COMPUTER can be rearranged is
+• 40324
+• 4032
+√ 40320
+• 40321
+• 40322
+218. If n1+n2 P2 = 132, n1-n2P2 = 30 then,
+• N1=9,n2=4
+√ N1=9,n2=3
+• N1=9,n2=7
+• N1=9,n2=6
+• N1=9,n2=5
+219. If 5Pr= 60, then the value of r is
+• 6
+• 7
+√ 3
+• 4
+• 5
+220. m+nP2 = 56, m-nP2 = 30 then
+√ M = 7, n= 1
+• M = 7, n= 5
+• M = 7, n= 4
+• M = 7, n= 3
+• M = 7, n= 2
+221. If . nP3: nP2 =3:1, then n is equal to
+√ 5
+• 1
+• 2
+• 3
+• 4
+222. If nP4 = 12 x nP2, then is equal to
+√ 6
+• 3
+• 4
+• 5
+• 2
+223. In nPr =n (n-1) (n-2) ........................ (n-r-1), the number of factor is
+√ R
+• N+r
+• N+1
+• N-1
+• N
+224. In nPr ,n is always
+• 0
+• None of these
+• A fraction
+• An integer
+√ A positive integer
+225. 0! is a symbol equal to
+√ 1
+• 5
+• 4
+• 3
+• 2
+226. 7! is equal to
+√ 5040
+• 5045
+• 5043
+• 5042
+• 5041
+227. There are 6 red, 5 blue, 3 green and 1 yellow marbles in a jar. Jada picks a marble without looking. What is the probability Jada picks a
+red or yellow marble?
+• 7/13
+• 7/14
+√ 7/15
+• 7/11
+• 7/12
+228. From a standard deck of cards, find the probability of picking a queen or an even number.
+• 6/14
+• 6/15
+• 6/16
+√ 6/13
+• 6/12
+229. M A T H E M A T I C S ( Each letter represents a card)You select a card at random. Without replacing the card, you select a second
+card. Find the probability. P(M, then H)
+• 1/51
+• 1/52
+• 1/53
+• 1/54
+√ 1/55
+230. You have 15 pennies in your pocket. Of those pennies, 3 are Canadian. Suppose you pick a penny out of your pocket at random. Find
+P(not Canadian). This is a ___________________________event.
+√ likely
+• unlikely
+• simple
+• complicated
+• neither
+231. A bag contains 4 white buttons. How many black buttons must be added so there is an even chance of picking a white button?
+√ 4
+• 5
+• 1
+• 3
+• 2
+232. A bag contains just 5 buttons, all of which are blue. What is the probability of picking a red button from the bag?
+√ 0
+• 1
+• 2
+• 3
+• 4
+233. Something that is unlikely to happen has a probability of between
+• 3 and 4
+•
+0.5 and 1
+√ 0 and 0.5
+• 1 and 2
+• 2 and 3
+234.
+From left to right on the number line, order the events based on how likely they are to occur.a. The event is certain to happen.b. The
+event is just as likely to happen as not to happen.c. The event has no chance of happening.d. The event could happen but is unlikely.e.
+The event is likely to happen.
+• D, c, b, e, a
+• A, c, b, d, e
+√ C, d, b, e, a
+• A, e, b, d, c
+• D, c, b, a, e
+235. A set of 15 cards is numbered 1, 2, 3, …, 15. Suppose you choose one card at random without looking. What is the probability of
+choosing an odd-numbered card?
+• 8/11
+• 8/13
+• 8/14
+√ 8/15
+• 8/12
+236. A spinner numbered 1 through 10 is spun 100 times. The results of the experiment are shown in the table below. What is the
+experimental probability of spinning an 8?
+• 17/100
+• 15/100
+√ 13/100
+• 14/100
+• 16/100
+237. Spinning a number 6 and then spinning a number 5 on the same spinner.
+• complicated Events
+• neither
+√ Independent Events
+• dependent Events
+• simple Events
+238. A bag contains 3 red cubes, 4 green cubes, and 5 blue cubes. One cube is taken from the bag and is not replaced. Another cube is taken.
+• simple
+• independent
+√ Dependent
+• neither
+• complicated
+239. Landing on heads after tossing a coin and rolling a 5 on a single 6-sided die
+√ Independent Events
+• neither
+• complicated events
+• simple events
+• dependent events
+240. You spend a spinner thrice. What is the probability of P(5, even number, and 1)
+• 1/105
+• 1/109
+√ 1/108
+• 1/107
+• 1/106
+241. You pick a marble at random. When you put the first marble back, you select a second marble at random. What is P(green, orange)?
+√ 1/18
+• 1/14
+• 1/15
+• 1/16
+• 1/17
+242. In a bag of colored marbles, there are 5 red, 4 blue, and 6 green marbles. If you randomly pick one marble from the bag, what is the
+probability that it is not blue?
+√ 11/15
+• 11/13
+• 11/12
+• 11/16
+• 11/14
+243. You flip a coin twice. What is P(heads, heads)?
+• 1/5
+• 1/6
+√ 1/4
+• 1/2
+• 1/3
+244. A fair die is rolled twice. What is the probability that the first roll is an even number and the second roll is an odd number?
+√ 1/4
+• 1/2
+• 1/5
+• none
+• 1/3
+245. A jar contains 6 red, 5 green, and 4 blue marbles. If three marbles are drawn at random without replacement, what is the probability that
+at least one marble is red?
+√ 0.75
+• 0.25
+• 0.1
+• none
+• 0.5
+246. A classroom has 12 boys and 18 girls. If three students are selected at random, what is the probability that all three are girls?
+√ 51/190
+• 1/2
+• 1/5
+• none
+• 1/67
+247. A box contains 8 red, 6 blue, and 4 green balls. If two balls are drawn at random without replacement, what is the probability that one is
+red and the other is blue?
+√ 28/85
+• 1/2
+• 1/6
+• none
+• 1/8
+248. A classroom contains 10 boys and 15 girls. If three students are selected at random, what is the probability that all three are boys?
+√ 2/91
+• 1/6
+• 1/7
+• none
+• 1/2
+249. A coin is tossed 6 times. What is the probability of getting exactly 4 heads?
+√ 15/64
+• 1/5
+• 1/2
+• none
+• 1/6
+250. A single card is drawn from a standard deck of 52 cards. What is the probability that it is either a spade or an ace?
+√ 4/13
+• 1/13
+• 1/52
+• none
+• 1/4
+251. A jar contains 5 red, 3 blue, and 2 green marbles. If two marbles are drawn at random with replacement, what is the probability that both
+marbles are red?
+√ 0.25
+• 0.5
+• 0.1
+• none
+• 0.2
+252. A box contains 4 red, 5 blue, and 7 yellow balls. If two balls are drawn at random without replacement, what is the probability that both
+balls are yellow?
+√ 7/40
+• 1/4
+• 1/28
+• none
+• 1/7
+253. A box contains 5 apples, 3 oranges, and 4 bananas. If three fruits are drawn at random without replacement, what is the probability that
+they are all apples?
+√ 1/44
+• 1/3
+• 1/4
+• none
+• 1/12
+254. A die is rolled twice. What is the probability that the sum of the numbers rolled is greater than 8?
+√ 5/18
+• 1/18
+• 1/6
+• none
+• 1/5
+255. A family has 3 children. What is the probability that they have exactly 2 boys?
+• none
+• 1/3
+• 1/8
+• 1/24
+√ 3/8
+256. A card is drawn at random from a standard deck of 52 cards. What is the probability that the card is a face card (Jack, Queen, or King)?
+√ 3/13
+• 1/13
+• 1/6
+• none
+• 1/3
+257. A jar contains 5 red, 4 green, and 3 blue marbles. If three marbles are drawn at random without replacement, what is the probability that
+all three marbles are of different colors?
+√ 9/55
+• 1/4
+• 1/3
+• none
+• 1/9
+258. A committee of 4 is to be formed from 6 men and 5 women. What is the probability that the committee will consist of exactly 2 men and
+2 women?
+√ 9/22
+• 1/11
+• 1/22
+• none
+• 1/9
+259. A school has 60 students, of which 35 are boys and the rest are girls. If a student is selected at random, what is the probability that the
+student is a girl?
+√ 5/12
+• 1/5
+• 1/6
+• none
+• 1/12
+260. A single card is drawn from a standard deck of 52 cards. What is the probability that the card is a diamond or a king?
+√ 17/52
+• 1/52
+• 1/4
+• none
+• 1/17
+261. A box contains 12 light bulbs, of which 3 are defective. If two bulbs are selected at random without replacement, what is the probability
+that both bulbs are defective?
+√ 1/22
+• 1/3
+• 1/2
+• none
+• 1/4
+262. A committee of 4 people is to be formed from a group of 7 men and 5 women. What is the probability that the committee will consist of
+exactly 2 men and 2 women?
+• 1/5
+• none
+√ 25/77
+• 1/7
+• 1/4
+263. A jar contains 8 red, 6 blue, and 6 green marbles. If two marbles are drawn at random with replacement, what is the probability that both
+marbles are blue?
+√ 9/49
+• 1/49
+• 1/4
+• none
+• 1/9
+264. A card is drawn from a standard deck of 52 cards. What is the probability that it is either a face card or a heart?
+√ 11/26
+• 1/26
+• 1/37
+• none
+• 1/11
+265. A deck of 52 cards is shuffled and one card is drawn. What is the probability that the card is a king or a club?
+√ 4/13
+• 1/4
+• 0.1
+• none
+• 1/13
+266. A classroom contains 10 boys and 15 girls. If a student is selected at random, what is the probability that the student is a boy?
+√ 0.4
+• 0.2
+• 0.3
+• none
+• 0.1
+267. A bag contains 4 red, 3 blue, and 2 green marbles. If two marbles are drawn at random with replacement, what is the probability that
+both marbles are the same color?
+√ 25/81
+• none
+• 1/17
+• 1/81
+• 1/25
+268. A fair coin is tossed 4 times. What is the probability of getting exactly 2 heads?
+• 1/6
+√ 3/8
+• none
+• 1/5
+• 2/7
+269. A box contains 5 pens and 7 pencils. If three items are selected at random without replacement, what is the probability that all three are
+pencils?
+• none
+• 1/7
+• 1/18
+• 1/5
+√ 2/77
+270. In a lottery, there are 10 prizes and 90 blanks. A lottery ticket is drawn at random. What is the probability of getting a prize?
+• 1/6
+• none
+√ 1/10
+• 1/9
+• 2/7
+271. A coin is tossed 3 times. What is the probability of getting at least one head?
+• 1/4
+√ 7/8
+• 1/6
+• 1/8
+• none
+272. Two dice are rolled. What is the probability that the product of the numbers rolled is even?
+√ 3/4
+• 1/2
+• 1/3
+• 1/6
+• none
+273. A school has 60% boys and 40% girls. If a student is selected at random, what is the probability that the student is a boy or a girl?
+√ 1
+• 0.6
+• 0.3
+• none
+• 0.4
+274. A bag contains 4 white, 5 black, and 6 red balls. If two balls are drawn at random without replacement, what is the probability that both
+balls are black?
+√ 2/33
+• none
+• 1/6
+• 1/10
+• 1/7
+275. A die is rolled twice. What is the probability that the sum of the numbers rolled is 7?
+√ 1/6
+• none
+• 1/5
+• 1/2
+• 1/4
+276. A box contains 5 red balls, 3 blue balls, and 2 green balls. If a ball is drawn at random, what is the probability that it is either red or
+green?
+√ 0.7
+• 0.5
+• 0.2
+• 0.3
+• none
+277. A fair coin is flipped and a six-sided die is rolled. What is the probability that the coin lands on heads and the die shows a number
+greater than 4?
+√ 1/6
+• 1/3
+• none
+• 0.2
+• 0.5
+278. If two people each pick a card randomly from a deck of 52 cards, what is the probability that they pick cards of the same suit?
+• 0.5
+√ 0.25
+• none
+• 0.1
+• 0.2
+279. If a standard six-sided die is rolled twice, what is the probability that the sum of the rolls equals 7?
+• none
+• 1/3
+√ 1/6
+• 0.6
+• 0.3
+280. What is the probability that a leap year selected at random will have 53 Sundays?
+• 0.2
+• none
+√ 2/7
+• 1/7
+• 0.1
+281. A bowl contains 8 oranges, 6 apples, and 4 bananas. If a fruit is selected at random, what is the probability it is either an orange or a
+banana?
+• none
+• 0.5
+√ 0.75
+• 0.25
+• 0.1
+282. A game involves rolling a single six-sided die. What is the probability of rolling a number less than 5?
+• none
+• 0.4
+• 0.1
+• 1/3
+√ 2/3
+283. A jar contains 5 blue, 4 red, and 3 green marbles. What is the probability of drawing a marble that is not green?
+• none
+• 0.1
+• 0.5
+• 0.25
+√ 0.75
+284. If three coins are tossed, what is the probability of getting exactly two heads?
+√ 0.375
+• none
+• 0.5
+• 0.25
+• 0.125
+285. In a drawer full of socks containing 10 identical black socks and 10 identical white socks, what is the probability of picking two socks
+of the same color without looking?
+√ 0.5
+• none
+• 0.7
+• 0.4
+• 0.1
+286. What is the probability of drawing a spade from a standard deck of 52 cards?
+• none
+• 0.5
+√ 0.25
+• 0.1
+• 0.6
+287. A school lottery has 500 tickets, and a student purchases 10 of them. What is the probability that the student wins if only one ticket is
+drawn as the winner?
+• 0.3
+• none
+• 0.4
+√ 0.02
+• 0.1
+288. If a fair six-sided die is rolled, what is the probability of rolling a number greater than 2?
+√ 2/3
+• 1/3
+• 0.1
+• 0.5
+• none
+289. A bag contains an equal number of red, green, and blue balls. If one ball is drawn, what is the probability that it is not blue?
+• 0.2
+• 0.1
+√ 2/3
+• none
+• 0.3
+290. A deck of cards has 52 cards consisting of 4 suits. If a card is drawn at random, what is the probability that it is either a heart or a
+diamond?
+• 0.1
+√ 0.5
+• 0.4
+• 0.3
+• none
+291. What is the probability of flipping a fair coin three times and getting at least one head?
+√ 7/8
+• 1
+• 0.1
+• 0.7
+• none
+292. If the probability of event A occurring is 0.20 and the probability of event B occurring is 0.30, what is the probability of either A or B
+occurring, assuming they are mutually exclusive?
+• 0.4
+• none
+• 0.8
+√ 0.5
+• 0.1
+293. A bag contains 4 red marbles, 3 blue marbles, and 2 green marbles. What is the probability of drawing a blue marble or a green marble?
+• 0.3
+• none
+• 2/9
+√ 5/9
+• 0.1
+294. A fair coin is tossed four times. What is the probability of getting exactly two heads?
+• none
+• 0.125
+• 0.5
+√ 0.375
+• 0.25
+295. During a game, a player rolls two dice. What is the probability that the total score is either 7 or 11?
+• none
+• 0.5
+• 0.3
+• 1/7
+√ 5/18
+296. If two independent events, A and B, have probabilities (P(A) = 0.6) and (P(B) = 0.5), what is the probability of (A) or (B) occurring?
+• 0.5
+• 0.3
+• none
+• 0.1
+√ 0.8
+297. A classroom has 10 boys and 15 girls. If a student is chosen at random, what is the probability the student is not a girl?
+• 0.1
+• none
+• 0.2
+• 0.3
+√ 0.4
+298. A bag contains 15 balls: 5 red, 5 blue, and 5 green. If one ball is drawn at random, what is the probability of it being red or green?
+• none
+• 1/3
+√ 2/3
+• 0.5
+• 0.3
+299. A box contains 5 red, 4 blue, and 3 green marbles. What is the probability of drawing a blue or green marble?
+√ 7/12
+• none
+• 0.5
+• 1/12
+• 0.3
+300. A drawer contains socks of two colors: 8 blue and 12 black. If two socks are drawn at random without looking, what is the probability
+they are of the same color?
+• none
+√ 37/95
+• 20/78
+• 0.5
+• 0.6
+301. What is the probability that a single roll of a fair six-sided die will result in a number greater than 4?
+√ 1/3
+• 0.5
+• none
+• 0.7
+• 1/7
+302. Two cards are drawn at random from a deck without replacement. What is the probability that both cards are hearts?
+• none
+• 2/17
+• 0.5
+√ 1/17
+• 0.3
+303. What is the probability of drawing an ace or a spade from a standard deck of cards?
+√ 4/13
+• none
+• 1/4
+• 2/7
+• 1/13
+304. A fair die is rolled twice. What is the probability that the sum of the rolls is 10?
+• 1/7
+• 1/6
+• 1/8
+• none
+√ 1/12
+305. A classroom has 12 boys and 18 girls. What is the probability that a randomly selected student is a girl?
+• none
+• 0.2
+√ 0.6
+• 0.4
+• 0.1
+306. A bag contains 6 blue, 3 red, and 1 yellow marble. What is the probability of drawing a marble that is not yellow?
+• none
+• 0.7
+• 0.2
+• 0.5
+√ 0.9
+307. Two events, A and B, are independent with (P(A) = 0.4) and (P(B) = 0.3). What is the probability of both A and B occurring?**
+• none
+• 1
+• 0.5
+• 0
+√ 0.12
+308. In a bag of red, green, and blue marbles, the probability of picking a red marble is 1/5, and picking a green marble is 2/5. What is the
+probability of not picking a blue marble?
+• none
+√ 0.6
+• 0.5
+• 0.2
+• 0.8
+309. Let there be two newly launched phones A and B. The probability that phone A has good battery life is 0.7 and the probability that
+phone B has a good battery life is 0.8. Then find the probability that a phone has good battery life.
+• 0.45
+• 0.85
+• none
+• 0.65
+√ 0.75
+310. In 30 balls, a batsman hits the boundaries 6 times. What will be the probability that he did not hit the boundaries?
+√ 4/5
+• 1/4
+• none
+• 1/20
+• 1/5
+311. If a number is selected at random from the first 50 natural numbers, what will be the probability that the selected number is a multiple of
+3 and 4?
+• 1/5
+√ 2/25
+• 1/25
+• 1/10
+• none
+312. A dice is thrown twice. What is the probability of getting two numbers whose product is even?
+• 1/2
+√ 3/4
+• 1/4
+• 1/3
+• none
+313. If two dice are thrown together, what is the probability of getting an even number on one dice and an odd number on the other dice?
+• 2/5
+√ 1/2
+• 1/3
+• none
+• 4/7
+314. Three houses are available in a locality. Three persons apply for the houses. Each applies for one house without consulting others. The
+probability that all the three apply for the same house is :
+• 7/9
+• 2/9
+√ 1/9
+• 8/9
+• none
+315. Out of 17 applicants 8 boys and 9 girls. Two persons are to be selected for the job. Find the probability that at least one of the selected
+persons will be a girl.
+• none
+√ 25/34
+• 19/34
+• 20/34
+• 5/4
+316. In a class, there are 15 boys and 10 girls. Three students are selected at random. The probability that 1 girl and 2 boys are selected, is:
+• 1/50
+√ 21/46
+• 1/5
+• none
+• 3/25
+317. A basket contains 10 apples and 20 oranges out of which 3 apples and 5 oranges are defective. If we choose two fruits at random, what
+is the probability that either both are oranges or both are non defective?
+√ 316/435
+• none
+• 158/435
+• 17/87
+• 136/345
+318. A word consists of 9 letters; 5 consonants and 4 vowels.Three letters are chosen at random. What is the probability that more than one
+vowel will be selected ?
+• 13/42
+√ 17/42
+• 5/42
+• 3/14
+• none
+319. Two brother X and Y appeared for an exam. The probability of selection of X is 1/7 and that of B is 2/9. Find the probability that both
+of them are selected.
+• none
+√ 2/63
+• 1/14
+• 1/9
+• 1/63
+320. Two dice are tossed. The probability that the total score is a prime number is:
+√ 5/12
+• none
+• 1/6
+• 1/5
+• 1/12
+321. Two cards are drawn at random from a pack of 52 cards.what is the probability that either both are black or both are queen?
+• 5/221
+√ 55/221
+• none
+• 18/221
+• 55/190
+322. Tickets numbered 1 to 20 are mixed up and then a ticket is drawn at random. What is the probability that the ticket drawn has a number
+which is a multiple of 3 or 5?
+• 1/7
+√ 9/20
+• 3/20
+• 7/20
+• none
+323. A problem is given to three students whose chances of solving it are 1/2, 1/3 and 1/4 respectively. What is the probability that the
+problem will be solved?
+• 1/3
+• 1/12
+• none
+√ 3/4
+• 1/4
+324. A fair coin is tossed three times. Work out the probability of getting two heads and one tail.
+• none
+√ 3/8
+• 1/8
+• 1/3
+• 1/24
+325. There are 18 girls and 12 boys in a class. 2/9 of the girls and 1/4 of the boys walk to school. One of the students who walks to school is
+chosen at random. Find the probability that the student is a boy.
+• 12/30
+• 1/3
+• none
+√ 3/7
+• 1/7
+326. One card is drawn from a deck of 52 cards, well-shuffled. Calculate the probability that the card will not be an ace
+√ 12/13
+• 3/13
+• none
+• 1/13
+• 2/13
+327. One card is drawn from a deck of 52 cards, well-shuffled. Calculate the probability that the card will be an ace
+• 1
+• 1/14
+• 2/7
+• none
+√ 1/13
+328. X = {−4,−2,1,3} Y = {−1,4,5}. If x is a number from set X, and y is a number from set Y. The probability that x + y is positive is closest
+to:
+√ 0.7
+• 0.1
+• 0.3
+• 1
+• none
+329. John buys a cake at a bakery and a hammer at a hard- ware store. If there are five hardware stores and three bakeries, in how many
+different combinations of stores can he purchase the cake and the hammer?
+• 8
+• none
+√ 15
+• 20
+• 10
+330. How many positive 4-digit numbers are there with an even digit in the hundreds position and an odd digit in the tens position?
+• 2,150
+• 5,040
+• 10,000
+• 2,500
+√ 2,250
+331. 60 blue marbles and 40 red marbles are in a jar. How many red marbles must be removed from the jar so that the probability of choosing
+a blue marble from the jar is 4/3?
+√ 20
+• none
+• 15
+• 10
+• 5
+332. If Event A and Event B are independent, what does P(A ∩ B) equal?
+√
+P(A) * P(B)
+•
+P(A) + P(B)
+• None of the above
+• P(A) / P(B)
+•
+P(A) - P(B)
+333. A bag contains 4 red, 5 blue, and 6 green balls. What is the probability of drawing a blue or a green ball?
+• 5/15
+• None of the above
+• 9/15
+√ 11/15
+• 10/15
+334. If the probability of an event A is 0.7, what is the probability of its complementary event, A'?
+• 1
+√ 0.3
+• 0.7
+• 0.6
+• None of the above
+335. What is the probability of the union of two events A and B, given that P(A) = 0.4, P(B) = 0.5, and P(A ∩ B) = 0.1?
+• 0.9
+√ 0.8
+• None of the above
+• 0.7
+• 1
+336. If two events A and B are mutually exclusive, what is P(A ∩ B)?
+•
+1
+√
+0
+• None of the above
+• P(A) * P(B)
+•
+P(A) + P(B)
+337. Is the statement "the larger sample size or more often you do an experiment, the closer your results will represent the entire population
+or predicted theoretical number" true or false?
+√ True
+• depends on the event
+• neither
+• both
+• false
+338. Which of the following formulas is used to find the probability of rolling a 2 or landing on tails?
+• P(B/A)
+•
+P(A) + P(B)
+√ P(A) x P(B)
+•
+P(A) x P(B/A)
+•
+P(A)
+339. If P(A) > P(B), then event A is more likely to occur then event B.
+• both
+√ True
+• false
+• depends on the event
+• neither
+340. Events are independent if the occurrence of one event does not affect the probability of the other.
+• depends on the event
+• false
+√ True
+• neither
+• both
+341. On a game show, the game that a contestant plays is chosen by spinning a spinner. The spinner has 5 colors on it: red, green, blue,
+purple, and orange. What is the complement of spinning a red or orange on this spinner? (Remember: complement = NOT)
+• blue
+√ Green, purple, blue
+• Green
+• Green, purple
+• purple, blue
+342. If a month is picked at random, what is the probability that the month will start with M?
+• 1/10
+• 1/9
+• 1/8
+• 1/7
+√ 1/6
+343. There are 20 marbles in a bag, 4 blue, 4 green, 4 red, 4 white and 4 black. Remember that all fraction answers should be given in the
+simplest form. What is the probability of drawing a black or white marble?
+• 2/6
+• 2/9
+• 2/8
+• 2/7
+√ 2/5
+344. There are 5 basketballs, 4 soccer balls and 6 footballs in a ball bin. If a student chooses a ball at random from the bin, what is the
+probability the student will pick a football or a basketball?
+• 11/19
+• 11/17
+• 11/18
+• 11/16
+√ 11/15
+345. Tre has 5 t-shirts, 4 dress shirts and 3 polo shirts in his closet. If he reaches in without looking what is the probability he will pick a tshirt or a polo shirt?
+• 8/12 , 2/7
+• 8/12 , 2/4
+√ 8/12 , 2/3
+• 8/12 , 2/5
+• 8/12 , 2/6
+346. There are 10 red, 5 blue, 3 green and 2 yellow marbles in a jar. Mark picks a marble without looking. What is the probability Mark
+picks a green or yellow marble?
+• 1/8
+√ 1/4
+• 1/6
+• 1/5
+• 1/7
+347. Jalen rolls a six sided number cube (a dice). What is the probability that the number rolled is a 2 or a number greater than 3?
+• 2/4
+√ 2/3
+• 2/6
+• 2/7
+• 2/5
+348. From a standard deck of cards, find the probability of picking a heart or spade.
+• 1/6
+• 1/4
+√ 1/2
+• 1/3
+• 1/5
+349. A teacher has 9 red crayons, 4 blue crayons, 7 purple crayons, and 5 black crayons in a basket. A student reaches into the basket and
+randomly selects a crayon. What is the probability that the crayon will be either red or purple?
+√ 16/25
+• 16/29
+• 16/28
+• 16/27
+• 16/26
+350. A teacher has 9 red crayons, 4 blue crayons, 7 purple crayons, and 5 black crayons in a basket. A student reaches into the basket and
+randomly selects a crayon. What is the probability that the crayon will be either blue or black?
+• 9/22
+• 9/21
+√ 9/25
+• 9/24
+• 9/23
+351. Scott rolls a six sided number cube (a dice). What is the probability that the number rolled is an even or a 5?
+• 2/9
+• 2/11
+√ 2/3
+• 2/5
+• 2/7
+352. How many different ways can you arrange the word "BEAN" where all letters are used?
+• 12
+• 5
+• 10
+• none
+√ 24
+353. A pin number consists of four digits (0-9). If the digits can be repeated, how many different pin numbers are possible?
+• 9k
+√ 10k
+• none
+• 2k
+• 20k
+354. If you have five different books and you want to select two to take on a trip, how many different pairs of books can you choose?
+√ 10
+• none
+• 25
+• 5
+• 20
+355. What is the number of ways to arrange the letters in the word "TOO"?
+• 4
+• none
+• 6
+√ 3
+• 12
+356. How many ways are there to choose 3 members from a team of 5 to work on a project?
+• 30
+• 5
+• none
+• 20
+√ 10
+357. How many different 3-digit numbers can be formed using the digits 1, 2, 3, 4, and 5 if no digit is repeated in a number?
+√ 60
+• 30
+• 120
+• 80
+• none
+358. If there are 3 roads to travel from city A to city B and 4 roads to travel from city B to city C, how many different routes can you take to
+travel from city A to city C via city B?
+• 9
+• none
+• 5
+√ 12
+• 7
+359. What is the probability of the random arrangement of letters in the word "UNIVERSITY" and two I's should come together?
+• 2/7
+• none
+• 1/7
+• 3/5
+√ 1/5
+360. In how many ways can we paint the six faces of a cube with six different colours?
+√ 30
+• none
+• 5
+• 25
+• 6
+361. There are 10 true-false questions in an examination. These questions can be answered in:
+• 100
+√ 1024
+• none
+• 512
+• 20
+362. The number of ways in which 8 students can be seated in a line is:
+√ 40320
+• none
+• 64
+• 20560
+• 8
+363. A basket contains 10 apples and 20 oranges out of which 3 apples and 5 oranges are defective. If we choose two fruits at random, what
+is the probability that either both are oranges or both are non defective?
+• 136/345
+• none
+• 17/87
+√ 316/435
+• 158/435
+364. Someone writes a five digit numeral that reads the same from left to right as right to left (a palindrome). How many 5-digit palindromes
+are there?
+√ 900
+• none
+• 5
+• 250
+• 200
+365. How many 5-digit numerals have 9 as the first digit, 3 or 6 as the third digit, and no digit repeated?
+• 375
+• 150
+• none
+√ 672
+• 296
+366. From a group of 8 women and 6 men, a committee of 5 people is to be formed. How many different committees are possible if the
+committee must consist of 3 women and 2 men?
+• none
+√ 840
+• 56
+• 15
+• 560
+367. A pizza place offers 8 different toppings. How many ways can a pizza be ordered with any combination of these toppings (excluding a
+pizza with no toppings)?
+• none
+• 128
+√ 255
+• 256
+• 64
+368. If a 4-member relay team is to be formed from a group of 10 athletes, how many different teams can be formed?
+√ 210
+• None of the above
+• 5040
+• 120
+• 24
+369. A bag contains 6 red, 4 blue, and 5 green balls. If 3 balls are picked at random, what is the total number of possible outcomes?
+• 364
+• None of the above
+√ 455
+• 120
+• 15
+370. How many different 4-digit numbers can be formed using the digits 1, 2, 3, 4, 5, if repetition is not allowed?
+• none of the above
+√ 120
+• 24
+• 60
+• 5
+371. How many ways can a committee of 3 be formed from a group of 8 people if one person must be the chairperson?
+• None of the above
+• 336
+• 56
+• 21
+√ 168
+372. If a password must consist of 2 letters followed by 2 digits, and letters can be repeated but digits cannot, how many unique passwords
+are possible?
+• 650
+√ 60840
+• None of the above
+• 1352
+• 5200
+373. What is the probability of selecting the diamond suit from a deck of playing cards?
+• 1/5
+√ 1/4
+• 1/8
+• 1/7
+• 1/6
+374. A card is selected from a deck of playing cards. What is the probability of selecting a red card?
+√ 1/2
+• 1/4
+• 1/5
+• 1/6
+• 1/3
+375. A lolly bag contains 2 red, 3 green and 2 blue gum balls. What is the probability of selecting a green one?
+√ 3/7
+• 3/9
+• 3/6
+• 3/5
+• 3/8
+376. If you rolled a 6-sided dice, what is the probability of rolling a even number?
+√ 3/6
+• 3/8
+• 3/9
+• 3/5
+• 3/7
+377. If you flipped 2 coins, what is the probability that both will land on tails?
+√ 1/4
+• 1/6
+• 1/7
+• 1/8
+• 1/5
+378. If you rolled a 6-sided dice, what is the probability of rolling a 3?
+√ 1/6
+• 1/8
+• 1/9
+• 1/5
+• 1/7
+379. A computer generates 4-digit random numbers in the range 0000 to 9999 inclusive. Find the probability that the computer produces a
+random number that begins and ends with the digit 1.
+√ 1/100
+• 1/10
+• 1/10000
+• 1/100000
+• 1/1000
+380. An interview with 18 people revealed that 5 of the 8 women and 8 of the 10 men preferred drinking coffee to tea. What is the probability
+that if one person is selected from the group of 18 people, it is either a woman or someone who preferred to drink coffee than tea?
+√ 8/9
+• 8/11
+• 8/12
+• 8/13
+• 8/10
+381. A bag contains 30 balls. The balls are numbered 1,2,3,4 ….30. A ball is drawn at random. Find the probability that the number on the
+ball is a prime number.
+√ 1/3
+• 1/5
+• 1/6
+• 1/7
+• 1/4
+382. Two fair dice, one red and one blue, are tossed. What is the probability that the total of the numbers shown by the two dice exceeds 3?
+√ 11/12
+• 11/14
+• 11/15
+• 11/17
+• 11/13
+383. A man tosses two fair dice. One is numbered 1 to 6 in the usual way and the other is numbered 1, 3, 5, 7, 9 and 11. Find the probability
+that the total of the two numbers shown is greater than 10.
+√ 5/12
+• 5/15
+• 5/16
+• 5/17
+• 5/13
+384. I have two 10-cent coins, three 20-cent coins, four 50-cent coins and five $1 coins in my pocket. If I choose a coin at random, find the
+probability that the coin is worth at least 50 cents.
+√ 9/14
+• 9/16
+• 9/17
+• 9/19
+• 9/15
+385. The letters of the word “PROBABILITY” are written on cards and the cards are then shuffled. If a card is picked at random, find the
+probability that it will contain a vowel.
+√ 4/11
+• 4/13
+• 4/14
+• 4/15
+• 4/12
+386. One of the 5 points (3, 2), (2, 1), (1, - 4), (5, 5) and (4, 6) is selected at random. What is the probability that it lies on the straight line 3x
+– 2y = 5?
+√ 0.4
+• 0.2
+• 0.1
+• 0.5
+• 0.3
+387. An identity card is picked at random. What is the probability that the sum of the last two digits of its number is 9?
+• 0.4
+√ 0.1
+• 0.2
+• 0.3
+• 0.5
+388. A box contains 36 marbles. If a marble is picked at random, the probability of being red is 2/9. How many red marbles should be added
+to make this probability 1/3?
+√ 6
+• 8
+• 9
+• 2
+• 7
+389. The letters of the name SMISS are arranged in a line. If an arrangement is chosen at random, what is the probability that the three Ss are
+together?
+• 0.4
+√ 0.3
+• 0.7
+• 0.6
+• 0.5
+390. In a survey, 45% of respondents said they like coffee, 30% said they like tea, and 20% said they like both. If a respondent is chosen at
+random and likes tea, what is the probability that the respondent also likes coffee?
+√ 2/3
+• none
+• 1/6
+• 1/2
+• 1/3
+391.
+A company has two divisions, A and B. Division A produces 70% of the total products, and division B produces 30%. The defect rates
+for divisions A and B are 4% and 6%, respectively. If a product is selected at random and is found to be defective, what is the
+probability that it was produced by division A?
+• 3/5
+• 2/3
+• 7/15
+√ 14/29
+• none
+392.
+A medical test for a certain disease is 95% accurate, meaning that it correctly identifies the presence of the disease 95% of the time and
+correctly identifies the absence of the disease 95% of the time. If 1% of the population actually has the disease, what is the probability
+that a person has the disease given that they tested positive?
+• 1/44
+• none
+√ 1/11
+• 1/22
+• 1/33
+393.
+In a class of 30 students, 18 students are enrolled in an art class, and 12 are enrolled in a music class. If 5 students are enrolled in both
+classes, what is the probability that a randomly selected student is enrolled in the art class given that the student is enrolled in the music
+class?
+• 3/5
+• none
+√ 5/12
+• 5/18
+• 2/3
+394. In a certain town, 30% of households have a dog, 25% have a cat, and 15% have both a dog and a cat. If a household is selected at
+random and has a dog, what is the probability that it also has a cat?
+• none
+• 0.2
+• 0.3
+• 0.4
+√ 0.5
+395.
+A factory has two machines, A and B. Machine A produces 60% of the total output, and machine B produces 40%. The defect rates for
+machines A and B are 3% and 5%, respectively. If a randomly selected product is found to be defective, what is the probability that it
+was produced by machine A?
+• 1/16
+• none
+• 0.2
+• 0.1
+√ 9/23
+396. A jar contains 6 red, 4 blue, and 5 green marbles. If three marbles are drawn at random without replacement, what is the probability that
+at least one of them is red?
+• 1/3
+• 25/86
+• none
+√ 66/91
+• 3/5
+397.
+In a school, 70% of the students take part in extracurricular activities, and 40% of the students who take part in extracurricular activities
+also excel academically. What is the probability that a randomly selected student takes part in extracurricular activities and excels
+academically?
+• 0.1
+• 1/20
+• 0.7
+• none
+√ 7/20
+398. A box contains 5 apples, 7 oranges, and 8 bananas. If two fruits are drawn at random without replacement, what is the probability that
+both fruits are oranges?
+√ 21/190
+• none
+• 2/97
+• 1/115
+• 1/86
+399. In a group of students, 50% study mathematics, 40% study physics, and 30% study both. If a student is known to study mathematics,
+what is the probability that they also study physics?
+• 0.3
+√ 0.6
+• 0.5
+• none
+• 0.4
+400. A bag contains 10 black, 8 white, and 6 yellow balls. If three balls are drawn at random without replacement, what is the probability that
+the first ball is white, the second ball is black, and the third ball is yellow?
+• 20/799
+• none
+√ 40/969
+• 4/153
+• 1/136
+401. In a certain college, 60% of students are enrolled in a mathematics course, 40% in a science course, and 20% in both. If a student is
+enrolled in a mathematics course, what is the probability that the student is also enrolled in a science course?
+• none
+• 1/4
+√ 1/3
+• 1/2
+• 1/5
+402. A bag contains 8 red, 5 blue, and 7 green balls. If three balls are drawn at random without replacement, what is the probability that all
+three balls are blue?
+• none
+• 3/340
+• 1/68
+• 1/34
+√ 5/680
+403. In a group of students, 40% play football, 30% play basketball, and 20% play both. If a student plays basketball, what is the probability
+that the student also plays football?
+• none
+• 1/4
+• 1/6
+• 1/3
+√ 2/3
+404. A box contains 6 black, 4 white, and 2 red balls. If two balls are drawn at random without replacement, what is the probability that the
+first ball is black and the second ball is white?
+• 1/5
+√ 4/33
+• 1/15
+• 1/3
+• none
+405. In a survey, it is found that 30% of people like tea, 20% like coffee, and 10% like both. If a person likes coffee, what is the probability
+that the person also likes tea?
+• 0.2
+• none
+• 0.3
+√ 0.5
+• 0.4
+406. A jar contains 5 red, 6 blue, and 7 green marbles. If two marbles are drawn at random without replacement, what is the probability that
+the first marble is blue and the second marble is green?
+√ 7/51
+• none
+• 6/51
+• 4/51
+• 1/51
+407. In a class, 60% of the students are girls, and 40% are boys. 70% of the girls passed the exam, and 50% of the boys passed the exam. If a
+student is selected at random and is found to have passed the exam, what is the probability that the student is a girl?
+√ 21/40
+• none
+• 1/5
+• 1/6
+• 1/4
+408. A box contains 4 red, 3 blue, and 3 green balls. If two balls are drawn at random without replacement, what is the probability that both
+balls are red?
+√ 2/15
+• none
+• 2/7
+• 1/6
+• 1/15
+409. A survey shows that 60% of respondents like tea and 70% like coffee. If liking tea and coffee are independent events, what is the
+probability that a respondent likes both tea and coffee?
+√ 0.42
+• 0.5
+• 0.25
+• none
+• 0.75
+410. If a family has two children, and it is known that the older child is a boy, what is the probability that both children are boys?
+√ 0.5
+• none
+• 0.6
+• 0.8
+• 0.1
+411. Two cards are drawn successively with replacement from a standard deck of 52 cards. What is the probability of drawing two aces?
+• 0.8
+• none
+√ 1/169
+• 1/7
+• 0.2
+412. A couple has two children. If it is known that at least one of the children is a girl, what is the probability that both children are girls?
+• 1/6
+• 0.7
+• none
+• 0.1
+√ 1/3
+413. If a family has two children, and knowing that at least one of them is a girl, what is the probability that both children are girls?
+√ 1/3
+• none
+• 0.3
+• 2/3
+• 0.2
+414. A box contains white and black balls. The probability of drawing a black ball is 0.55. What is the probability of drawing a white ball?
+• 0.4
+√ 0.45
+• 0.58
+• 0.8
+• none
+415. A test for a certain disease is 90% accurate. If a patient tests positive, what is the probability they actually have the disease if 1 in 200
+people have the disease?
+√ 0.043
+• 0.14
+• 0.8
+• 0.26
+• none
+416. If a couple has two children, and we know at least one of them is a boy, what is the probability that they have two boys?
+• none
+• 1/6
+√ 1/3
+• 0.5
+• 0.1
+417. In a survey, 40% of people like coffee, and 30% like both coffee and tea. What is the probability that a person likes tea given they like
+coffee?
+√ 0.75
+• 0.1
+• none
+• 0.25
+• 0.5
+418. If you draw two cards from a deck, what is the probability that the second card is an ace given that the first card was an ace?
+• none
+√ 3/51
+• 1/52
+• 0.5
+• 0.4
+419. If events A and B are independent with (P(A) = 0.3) and (P(B) = 0.4), what is (P(A | B))?
+• 0.2
+• none
+√ 0.3
+• 0.7
+• 0.6
+420. If the probability of rain tomorrow is 30% and the probability of having an umbrella given that it rains is 80%, what is (P(Umbrella and
+Rain))?
+• 0.3
+• 0.73
+√ 0.24
+• none
+• 0.8
+421. What is the probability of rolling a sum of 7 or 11 on a single roll of two dice?
+• 0.1
+• none
+• 0.6
+• 0.35
+√ 0.222
+422. What is the probability that a leap year selected at random will have 53 Sundays?
+√ 2/7
+• none
+• 0.2
+• 0.3
+• 1/6
+423. A bag contains 8 red, 3 blue, and 9 green balls. If a ball is drawn at random, what is the probability it is not blue?
+• 1/8
+√ 17/20
+• 0.8
+• 0.6
+• none
+424. What is the probability of drawing a king or a queen from a full deck of cards on a single draw?
+• 0.2
+• 1/6
+• 0.4
+• none
+√ 2/13
+425. If there is a 60% chance of rain on Saturday and a 40% chance of rain on Sunday, and the events are independent, what is the
+probability it will rain on both days?
+• none
+• 0.3
+• 0.7
+√ 0.24
+• 0.15
+426. A die is rolled twice. What is the probability of getting a six on the second roll given that the first roll was a six?
+√ 1/6
+• 0.4
+• 5/6
+• 0.2
+• none
+427. A bag contains 3 blue and 2 red balls. Two balls are drawn successively without replacement. What is the probability that the second
+ball is red given that the first ball was blue?
+• 0.8
+• none
+• 0.7
+• 0.4
+√ 0.5
+428. A system has two components that fail independently, each with probability 0.1. What is the probability that both components fail?
+• none
+• 0.1
+√ 0.01
+• 1
+• 0.11
+429. If a student is selected at random from a class, and the probability that the selected student has a smartphone is 0.7, what is the
+probability that the student does not have a smartphone?
+• 0.7
+• none
+√ 0.3
+• 0.1
+• 0.5
+430. What is the probability of drawing a red card or a face card from a standard deck?
+• 0.7
+• 0.3
+• 0.1
+√ 0.5
+431. What is the probability of getting at least one head in two tosses of a fair coin?
+• none
+• 0.25
+√ 0.75
+• 0.3
+• 0.6
+432. What is the probability of drawing an ace given that a king has already been drawn from a standard deck of 52 cards?
+√ 1/51
+• none
+• 1/52
+• 0.2
+• 0.4
+433. If P(C) = 5/13, P(D) = 7/13 and P(C∩D) = 3/13, evaluate P(C|D).
+√ 3/7
+• none
+• 1/18
+• 1/13
+• 1/7
+434. In class, 30% of students study Hindi, 45% study Maths, and 15% study both Hindi and Maths. If a student is randomly selected, what is
+the probability that he/she study Hindi or maths?
+√ 3/5
+• none
+• 1/3
+• 1/6
+• 1/5
+435. At Kennedy Middle School, the probability that a student takes Technology and Spanish is 0.087. The probability that a student takes
+Technology is 0.68. What is the probability that a student takes Spanish given that the student is taking Technology?
+√ 0.13
+• none
+• 1
+• 0.5
+• 0.7
+436. The probability that it is Friday and that a student is absent is 0.03. Since there are 5 school days in a week, the probability that it is
+Friday is 0.2. What is the probability that a student is absent given that today is Friday?
+√ 0.15
+• 0.2
+• 0.1
+• none
+• 0.3
+437. Two dies are thrown simultaneously and the sum of the numbers obtained is found to be 7. What is the probability that the number 3 has
+appeared at least once?
+√ 1/3
+• 1/21
+• 1/4
+• none
+• 1/7
+438. If P (A) = 6/11, P (B) = 5/11 and P (A B) = 7/11, what is the value of P(B|A)?
+• 1/3
+• 1
+• 2/11
+• none
+√ 2/3
+439. If P(A) = 5/13, P(B) = 7/13 and P(A∩B) = 3/13, evaluate P(A|B).
+√ 3/7
+• 5/7
+• 4/7
+• 2/7
+• 1/7
+440. If P(A) = 1/5, P(B) = 0, then what will be the value of P(A|B)?
+• -1/2
+√ Not defined
+• 0
+• 1
+• -1
+441. If P(A) = 7/11, P(B) = 6 / 11 and P(AB) = 8/11, then P(A|B) = ________
+• 2
+√ 1
+• 0
+• 1/2
+• -1/2
+442. Let E and F be events of a sample space S of an experiment, if P(S|F) = P(F|F), then value of P(F|F) is __________
+• 0
+√ 1
+• -1
+• 2
+• 1/2
+443. Given that E and F are events such that P(E) = 0.5, P(F) = 0.4 and P(E∩F) = 0.3, then what will be the value of P(F|E)?
+• 1/5
+• 1/3
+• 1/2
+• 2/3
+√ 3/5
+444. Let E and F be events of a sample space S of an experiment, if P(S|F) = P(F|F) then value of P(S|F) is __________
+• 0.5
+√ 1
+• 0
+• -1
+• 2
+445. If E and F are two events associated with the same sample space of a random experiment then P (E|F) is given by _________
+• P(E∩F) / P(F), provided P(F) = 0
+• P(E∩F)
+• P(E∩F) / P(E)
+• P(E∩F) / P(F)
+√ P(E∩F) / P(F), provided P(F) ≠ 0
+446. Given that E and F are events such that P(E) = 0.6, P(F) = 0.3 and P(E∩F) = 0.2, then P(E|F) ?
+√ 2/3
+• 2
+• 5/3
+• 4/3
+• 1/3
+447.
+Sam asked 50 people whether they like vegetable pizza or pepperoni pizza.
+37 people like vegetable pizza.
+25 people like both.
+3 people like neither.
+Sam picked one of the 50 people at random. Given that the person he chose likes pepperoni pizza, find the probability that they don’t
+like vegetable pizza.
+√ 2/7
+• none
+• 1/7
+• 1/5
+• 2/5
+448.
+Dexter runs a game at a fair. To play the game, you must roll a dice and pick a card from a deck of cards.
+To win the game you must roll an odd number and pick a picture card. The game can be represented by the tree diagram below. Dexter
+charges players $1 to play and gives $3 to any winners. If 260 people play the game, how much profit would Dexter expect to make?
+√ 140
+• none
+• 120
+• 260
+• 65
+449. Two dice are rolled, if it is known that atleast one of the dice always shows 4, find the probability that the numbers appeared on the dice
+have a sum 8.
+• none
+• 3/10
+√ 1/11
+• 1/10
+• 2/11
+450. In a class, 40% of the students like Mathematics and 25% of students like Physics and 15% like both the subjects. One student select at
+random, find the probability that he likes Physics if it is known that he likes Mathematics.
+√ 3/8
+• 1/8
+• 2/5
+• none
+• 1/6
+451. Ten numbered cards are there from 1 to 15, and two cards a chosen at random such that the sum of the numbers on both the cards is
+even. Find the probability that the chosen cards are odd-numbered.
+√ 4/7
+• none
+• 1/5
+• 1/7
+• 2/5
+452. A lottery ticket gives a 0.1% chance to win $1000, a 1% chance to win $100, and a 98.9% chance to win nothing. What is the expected
+value of buying the ticket for $2?
+• 1.5
+• 2
+√ 1.8
+• 1
+• none
+453. A bag contains 5 red balls and 5 blue balls. Two balls are drawn at random without replacement. What is the variance of the number of
+red balls drawn?
+• none
+√ 0.5
+• 0.25
+• 1
+• 2
+454. A slot machine costs $1 per play and pays out $500 with a probability of 0.001. What is the expected value of playing the slot machine
+once?
+• none
+√ 0.5
+• 0.25
+• 1
+• 2
+455. A multiple-choice exam has 20 questions with 4 options each, only one of which is correct. If a student guesses on each question, what
+is the variance of the number of questions the student gets right?
+√ 3.75
+• none
+• 1.5
+• 4.5
+• 2.25
+456. If a fair coin is flipped 8 times, what is the variance of the number of heads obtained?
+• none
+• 5
+√ 4
+• 3
+• 2
+457. A biased coin is flipped 10 times. If the probability of landing heads is 0.3, what is the expected number of heads?
+√ 3
+• none
+• 10
+• 7
+• 5
+458. A quiz consists of 10 true or false questions. If guessing randomly, what is the expected number of correct answers?
+• none
+√ 5
+• 2
+• 8
+• 4
+459. If a fair die is rolled one time, what is the expected value of the outcome?
+• none
+√ 3.5
+• 3
+• 6
+• 4
+460. 45 shots are fired at the target. Each shot has a 2/3 chance of hitting the target. Let X denote the number of bullets hitting the target.
+Find expected value E(X).
+√ 30
+• 90
+• 0
+• 1
+• 45
+461. If Var(x) = 2 and Var(z) = 3, then Var(z – x+5) =?
+• 12
+• 1
+√ 5
+• 10
+• 6
+462. If Var(x) = 2 and Var(z) = 3, then Var(2z – 2x) =?
+√ 20
+• 14
+• 30
+• 10
+• 4
+463. If Var(x) = 2 and Var(z) = 3, then Var(2z – x) =?
+• 6
+• 4
+√ 14
+• 10
+• 8
+464. If Var(x) = 2 and Var(z) = 3, then Var(z – x) =?
+• 1
+• 4
+√ 5
+• 3
+• 2
+465. If E(x) = 2 and E(z) = 4, then E(z – 2x+1) =?
+√ 1
+• 5
+• 4
+• 3
+• 2
+466. If E(x) = 2 and E(z) = 4, then E(2z – x) =?
+• 2
+• 1
+√ 6
+• 4
+• 3
+467. If E(x) = 2 and E(z) = 4, then E(z – x) =?
+• 0
+• 6
+√ 2
+• -1
+• 4
+468. If the probability that it rains on any given day in April is 30%, what is the probability that it does not rain for three consecutive days?
+• none
+√ 0.343
+• 0.34
+• 0.4
+• 0.3
+469. A local bakery averages 200 customers per day. What is the probability that more than 210 customers will visit the bakery on a
+particular day (Poisson Distribution)?
+• 0.63
+• none
+• 0.7
+• 0.25
+√ 0.3192
+470. A parking lot has 10 spaces, and the probability of each space being occupied is 70%. What is the probability that exactly 7 spaces are
+occupied on a given day (Binomial Distribution)?
+• none
+√ 0.2668
+• 0.36
+• 0.7
+• 0.253
+471. From a group of 20 volunteers consisting of 8 men and 12 women, a team of 5 is selected randomly. What is the probability that the
+team will consist of 3 men and 2 women (Hypergeometric Distribution)?
+• 0.277
+√ 0.3448
+• 0.376
+• 0.25
+• none
+472. What is the probability that a fair coin will land heads exactly 4 times in 10 flips (Binomial Distribution)?
+• 0.73
+√ 0.2051
+• 0.637
+• 0.7262
+• none
+473. A fair coin is flipped 8 times. What is the probability of getting exactly 3 heads (Binomial Distribution)?
+• 0.35
+• 0.14
+• none
+• 0.82
+√ 0.2188
+474. A small bakery gets an average of 10 orders per day. What is the probability that on a given day, they will receive exactly 8 orders
+(Poisson Distribution)?
+• none
+√ 0.1126
+• 0.647
+• 0.546
+• 0.634
+475. What is the probability of rolling exactly two sixes in six rolls of a fair six-sided die (Binomial Distribution)?
+• 0.745
+√ 0.2009
+• 0.45
+• 0.322
+• none
+476. For a bus stop where buses arrive on average every 15 minutes, what is the probability that no bus will arrive in the next 30 minutes
+(Poisson Distribution)?
+√ 0.2231
+• none
+• 0.6
+• 0.8
+• 0.76
+477. What is the probability of observing no defective items in a sample of 15 if the defect rate is 3% per item (Binomial Distribution)?
+• none
+• 0.647
+√ 0.6086
+• 0.65
+• 0.63
+478. A machine produces parts with a 5% defect rate. If 20 parts are produced, what is the probability that exactly 2 are defective (Binomial
+Distribution)?
+• 0.632
+• none
+√ 0.1887
+• 0.637
+• 0.427
+479. A batch of 20 items includes 4 defective ones. If you randomly select 5 items from the batch, what is the probability that exactly 1 item
+is defective (Hypergeometric Distribution)?
+• none
+• 0.67
+• 0.64
+• 0.646
+√ 0.3968
+480. In an area where there is a low probability of rain, the average number of rainy days per month is 2. What is the probability that there
+will be exactly 1 rainy day next month (Poisson Distribution)?
+• 0.974
+√ 0.2707
+• 0.675
+• 0.547
+• none
+481. If a fair coin is flipped 10 times, what is the probability of getting exactly 6 heads (Binomial Distribution)?
+√ 0.2051
+• 0.54
+• none
+• 0.876
+• 0.378
+482. For a small email server, the average number of spam emails received per day is 3. What is the probability that on a particular day,
+exactly 1 spam email is received (Poisson Distribution)?
+• 0.2
+• none
+√ 0.1494
+• 0.257
+• 0.8
+483. In a lottery draw, 6 numbers are picked without replacement from a set of 49. If you choose 6 numbers, what is the probability that 3 of
+your numbers are drawn (Hypergeometric Distribution)?
+• none
+• 0.826
+√ 0.0177
+• 0.7
+• 0.3
+484. Assuming a Poisson distribution with a mean of 5 events per interval, what is the probability of observing exactly 2 events?
+√ 0.0842
+• none
+• 0.7
+• 0.8
+• 0.1254
+485. A light bulb has a probability of 0.1 of being defective. If you test 8 bulbs, what is the probability that exactly 1 bulb is defective
+(Binomial Distribution)?
+• 0.58
+√ 0.3826
+• 0.12
+• 0.5
+• none
+486. If the average number of customers arriving at a store in an hour is 10, what is the probability that exactly 7 customers arrive in a given
+hour (Poisson Distribution)?
+• 0.5
+• none
+√ 0.0901
+• 0.1
+• 0.65
+487. What is the probability of getting exactly 3 heads in 5 flips of a fair coin (Binomial Distribution)?
+√ 0.3125
+• 0.125
+• 0.1
+• 0.5
+• none
+488. All of the following are binomial experiments except:
+• Rolling a die to see if a 5 appears
+• Asking 100 people if they smoke
+√ Rolling a die until a 6 appears
+• Tossing a coin
+• Asking 200 people if they have a car
+489. In Binomial Distribution, each trial must be independent.
+• Not defined
+• None of the above
+• False. None of them must be independent
+• False. Only one of them must be independent
+√ True
+490. How many possible outcome(s) has a Binomial probability?
+• 5
+• 4
+• 3
+• 1
+√ 2
+491. If two variables have a high negative Pearson correlation, what can be inferred about their relationship?
+• They vary independently of each other.
+• none
+• The variables are perfectly uncorrelated.
+√ Increases in one variable are associated with decreases in the other.
+• Increases in one variable are associated with increases in the other.
+492. What does it mean if the correlation coefficient between two variables is closer to 1?
+• The variables are not related.
+• none
+• The relationship between the variables is weaker.
+• The variables move in opposite directions.
+√ The relationship between the variables is stronger and positive.
+493. Which scenario would likely result in a covariance close to zero?
+• When two variables increase together.
+• When one variable increases as the other decreases.
+• When one variable is constant.
+• none
+√ When two variables show no apparent relationship.
+494. How does the correlation coefficient differ from covariance in terms of output range?
+• Neither measure has a limited range.
+• none
+• The correlation coefficient can have any value, while covariance is limited between -1 and 1.
+√ Covariance can have any value, while the correlation coefficient is limited between -1 and 1.
+• Both have the same range of values.
+495. Which statement is true if the covariance between two variables is negative?
+• none
+• As one variable increases, the other also increases.
+• The variables move together in the same direction.
+√ As one variable increases, the other decreases.
+• The variables are unrelated.
+496. What implication does a high positive correlation coefficient have for predictions based on regression analysis?
+• It suggests that there is no relationship useful for predictions.
+• none
+• Predictions cannot be reliably made.
+• Predictions are unreliable because the relationship is too strong.
+√ It indicates a strong ability to predict one variable based on the other.
+497. What does a negative correlation coefficient indicate about two variables?
+• The variables increase together.
+√ As one variable increases, the other decreases.
+• The variables are not related.
+• none
+• The variables decrease together.
+498. What does covariance indicate in statistical analysis?
+√ The strength and direction of a linear relationship between two variables.
+• none
+• The frequency distribution of two variables.
+• The variance of a single variable.
+• The average value of a single variable.
+499. Which of the following is a property of the probability density function (PDF) for a continuous random variable?
+• The total area under the PDF curve is greater than 1.
+• none
+• The total area under the PDF curve is 0.
+√ The total area under the PDF curve is exactly 1.
+• The total area under the PDF curve is less than 1.
+500. What is the probability of a continuous random variable taking on a specific exact value?
+√ 0%
+• It depends on the variable.
+• 75%
+• 100%
+• 50%
+501. You have two boxes. Box 1 has 3 red and 7 blue balls. Box 2 has 6 red and 4 blue balls. A box is selected at random and a red ball is
+drawn. What is the probability it came from Box 2?
+• 0.52
+√ 0.63
+• 0.54
+• 0.48
+• 0.58
+502. In a college, 70% of students are science students, and 30% are arts students. 90% of science students pass an exam, while 60% of arts
+students pass. If a randomly chosen student passed, what is the probability they are a science student?
+• 0.79
+√ 0.81
+• 0.65
+• 0.69
+• 0.03
+503. A factory has 3 machines A, B, and C producing 20%, 30%, and 50% of the items respectively. A, B, and C produce 1%, 2%, and 3%
+defective items respectively. If an item is defective, what is the probability it came from machine C?
+• 0.1
+• 0.4
+• 0..5
+√ 0.6
+• 0.2
+504. A test for a disease is 95% accurate. The disease occurs in 1 out of 1000 people. If a person tests positive, what is the probability they
+actually have the disease?
+• 0.03
+√ 0.019
+• 0.01
+• 0.95
+• 0.02
+505. Which z-score corresponds to the 10th percentile of the standard normal distribution?
+√ -1.28
+• -1.2
+• -1.1
+• -0.84
+• -1
+506. The mean height of adult men is 175 cm with a standard deviation of 6 cm. What is the height corresponding to a z-score of 0.5?
+• 175
+• 180
+• 177
+• 160
+√ 178
+507. Which of the following values is closest to the probability that a standard normal variable is less than 1.28?
+√ 0.90
+• 0.80
+• 0.40
+• 0.50
+• 0.60
+508. A normal distribution has a mean of 100 and a standard deviation of 10. What value corresponds to a z-score of -1.5?
+• 105
+• 100
+• 65
+• 95
+√ 85
+509. If a value is at the 97.5th percentile of a standard normal distribution, what is its approximate z-score?
+• 3.04
+• 1.66
+• 2.1
+√ 1.96
+• 2.33
+510. .
+• .
+• .
+• .
+√ .
+511. What is a joint probability density function (joint PDF) used for?
+• To summarize the probabilities of non-random events.
+• none
+• To determine the likelihood that a single variable falls within a specific range.
+• To describe the probability distribution of a single variable.
+√ To describe how probabilities are assigned to combinations of values of two or more continuous random variables.
+512. What role does random sampling play in the accuracy of a sample?
+• It allows researchers to select only the most relevant data points.
+• It helps in choosing the smallest possible sample size.
+• none
+• It guarantees that the sample will be free of any errors.
+√ It ensures that each member of the population has an equal chance of being included, reducing selection bias.
+513. What is a sampling frame?
+• A list of every sample size used in a study.
+• none
+• The actual population from which the sample is drawn.
+√ A list or other device used to define a population for the purpose of selecting a sample.
+• A diagram showing how samples are collected.
+514. Which type of sample is most likely to be affected by bias?
+• Simple random sample.
+• none
+√ Convenience sample.
+• Cluster sample.
+• Stratified sample.
+515. What is stratified sampling?
+• none
+• Randomly picking samples without any specific criteria.
+√ Dividing the population into groups and taking a proportional sample from each group.
+• Selecting samples based only on their availability.
+• Choosing samples that represent the median of the population.
+516. What is meant by the 'representativeness' of a sample?
+√ The sample accurately reflects the distribution and characteristics of the population from which it is drawn.
+• none
+• The sample consists only of typical cases from the population.
+• The sample is large in size.
+• The sample includes every member of the population.
+517. What does the term 'sampling error' refer to?
+√ The difference between a sample statistic and its corresponding population parameter.
+• Errors due to biases introduced by poorly designed experiments.
+• Mistakes made by researchers while collecting samples.
+• none
+• Errors that occur due to faulty data collection instruments.
+518. What is the purpose of sampling in statistics?
+• To completely eliminate sampling errors.
+• none
+• To gather data from all members of the population.
+√ To save time and resources while still making accurate estimates about a population.
+• To test hypotheses on the sample itself without generalizing to the population.
+519. Which characteristic describes a simple random sample?
+• Members are selected based on their convenience and proximity.
+• none
+√ Each member of the population has an equal chance of being selected.
+• Only the first few members of the population are chosen.
+• Members are chosen based on a characteristic they share.
+520. What type of graph is best suited for showing how a part-to-whole relationship changes over time?
+• Pie chart
+• none
+• Bar graph
+√ Stacked area graph
+• Line graph
+521. Which type of graph would you use to show the frequency of different categories within a dataset?
+• Pie chart
+• none
+√ Bar graph
+• Scatter plot
+• Line graph
+522. What is the primary use of a box plot in data analysis?
+• To illustrate changes over time.
+• To show the mean values of different groups.
+• To display relationships between two variables.
+√ To represent the distribution of data through their quartiles.
+• none
+523. Which graph type is particularly effective for showing the rank order of items?
+• none
+• Pie chart
+• Histogram
+√ Bar graph
+• Scatter plot
+524. Which graph would best demonstrate the average sales figures across different regions?
+• Histogram
+• Pie chart
+√ Bar graph
+• Line graph
+• none
+525. What graph would be best for showing the relationship between temperature and ice cream sales?
+• none
+• Pie chart
+• Line graph
+√ Scatter plot
+• Bar graph
+526. What does a scatter plot illustrate?
+• The central tendency of a dataset.
+• none
+• The chronological order of events.
+√ The relationship between two quantitative variables.
+• The frequency of each category.
+527. When would the midrange be considered a useful measure of central tendency?
+• none
+• In highly skewed distributions.
+• When data points are uniformly distributed.
+• In the presence of outliers.
+√ It is generally not recommended due to its sensitivity to outliers.
+528. Which of the following is a limitation of using the mode as a measure of central tendency?
+• none
+• It cannot be calculated for numerical data.
+√ It may not exist if no value repeats.
+• It is always equal to the mean and median.
+• It cannot be used to describe shape of the distribution.
+529. What is the geometric mean, and when is it most appropriately used?
+• It is the midpoint of the data range, used for interval data.
+• It is the sum of all values divided by their count, used for all types of data.
+√ It is the nth root of the product of n numbers, used primarily for data that grows exponentially.
+• It is the most frequently occurring value in a dataset, used for categorical data.
+• none
+530. Which measure of central tendency is most reliable in the presence of skewed data and outliers?
+• range
+• none
+• mean
+√ median
+• mode
+531. Which measure of central tendency is most affected by outliers?
+• median
+√ mean
+• outliers
+• mode
+• range
+532. Which of the following scenarios is an example of applying the Law of Large Numbers in everyday life?
+• Guessing the next card to be drawn from a shuffled deck.
+• Determining the outcome of a one-time horse race.
+• none
+• Predicting the outcome of a single lottery draw.
+√ Estimating the average height of people in a large city by sampling.
+533. How does the Law of Large Numbers apply to insurance companies in predicting losses?
+√ It helps predict the total losses over a large number of policies.
+• It allows them to predict exact losses for each customer.
+• It ensures no losses will occur.
+• It guarantees that profits will be maximized in the short term.
+• none
+534. According to the Law of Large Numbers, what is expected to happen if a fair dice is rolled a very large number of times?
+• none
+• The proportion of rolls that result in a six will equal the proportion of rolls resulting in a one.
+√ The proportion of rolls that result in a six will approach 1/6.
+• The proportion of rolls that result in a six will decrease over time.
+• The proportion of rolls that result in a six will become unpredictable.
+535. In the context of the Law of Large Numbers, which scenario is likely to demonstrate this principle effectively?
+• Choosing 5 cards from a deck to determine the probability of getting a heart.
+• none
+• Flipping a coin 10 times to determine the probability of heads.
+√ Flipping a coin 1000 times to determine the probability of heads.
+• Rolling a die 20 times to determine the probability of getting a six.
+536. What assumption is typically made about the sample data when constructing a confidence interval for the mean?
+• There is a high level of outliers in the data.
+• none
+• The data is non-normally distributed.
+√ The population from which the sample is drawn is normally distributed.
+• The sample size is less than 30.
+537. What impact does a larger sample size have on the margin of error in a confidence interval?
+• It skews the margin of error.
+• none
+• It increases the margin of error.
+√ It decreases the margin of error.
+• It has no effect on the margin of error.
+538. Which statistical measure is estimated by the margin of error in a confidence interval?
+• The variance of the sample.
+• none
+• The mean of the sample.
+• The standard deviation of the population.
+√ The maximum error of estimate of the population parameter.
+539. What is the effect of increasing the confidence level (from 90% to 99%) on the confidence interval?
+• The interval becomes skewed.
+• none
+• The interval becomes narrower.
+√ The interval becomes wider.
+• The interval remains the same.
+540. In hypothesis testing, if the confidence interval for a mean includes the value of zero, what does this indicate about the statistical
+significance?
+• none
+√ The results are not statistically significant.
+• The results are statistically significant.
+• The test needs to be rerun.
+• Additional samples are required.
+541. Which of the following factors can affect the width of a confidence interval?
+• none
+• Sample size.
+• The choice of confidence level.
+• Variability of the data.
+√ All of the above.
+542. What does a 95% confidence interval suggest about the estimate it provides?
+• none
+• The interval width is 95% of the total range of the data.
+• It is 95% accurate to the sample mean.
+• The interval captures 95% of the data points in the sample.
+√ There is a 95% probability that the interval contains the true population parameter.
+543. What does the p-value in a hypothesis test indicate?
+• The significance level set before conducting the test.
+√ The probability of the observed data, given that the null hypothesis is true.
+• The probability of the null hypothesis being true.
+• The proportion of the sample that supports the hypothesis.
+• none
+544. What is a null hypothesis in the context of hypothesis testing?
+• It predicts the experimental results.
+• none
+• It is based on population data.
+• It is the hypothesis that proposes a change or difference.
+√ It is the hypothesis that there is no effect or no difference.
+545. Which type of error occurs when the null hypothesis is incorrectly rejected?
+• Sampling error.
+√ Type I error.
+• Type II error.
+• none
+• Non-sampling error.
+546. What is the purpose of hypothesis testing in statistics?
+• To create a model that predicts future outcomes based on past data.
+√ To determine if there is enough evidence to reject a null hypothesis at a pre-determined significance level.
+• To calculate the mean of the dataset.
+• To determine the correlation between two variables.
+• none
+547. In a deck of 52 cards, two cards are drawn at random without replacement. What is the probability that the first card is a queen and the
+second card is a king?
+• 1/6
+• none
+√ 1/221
+• 1/2
+• 1/22
+548. A jar contains 8 red, 7 blue, and 5 yellow marbles. If three marbles are drawn at random without replacement, what is the probability
+that all three marbles are red?
+• 1/55
+√ 56/969
+• 1/8
+• 2/17
+• none
+549. A batch of cookies includes 10% that are burnt. If you randomly select 12 cookies, what is the probability that none are burnt?
+• 0.876
+√ 0.2824
+• none
+• 0.3
+• 0.56
+550. In a class of 30 students, 15 have done their homework. If 5 students are chosen at random, what is the probability that exactly 3 have
+done their homework?
+• 0.25
+• 0.376
+• none
+• 0.1
+√ 0.3267
+551. A student answers 10 true or false questions by guessing. What is the probability that the student gets more than 8 questions correct?
+• 0.2
+√ 0.0547
+• 0.56
+• 0.8
+• none
+552. A car alarm goes off 95% of the time when there's a break-in and 10% of the time when there's no break-in. If break-ins are rare (1%
+chance), what is the probability that there has been a break-in if the alarm has gone off?
+• 0.8
+• 0.1
+• 0.65
+√ 0.0867
+• none
+553. During a game, a player spins a spinner that is divided into four equal parts, each colored differently: red, blue, green, and yellow. What
+is the probability that the spinner does not stop on green?
+√ 0.75
+• none
+• 0.1
+• 0.25
+• 0.5
+554. A box contains 8 balls, 3 of which are red and 5 are black. If two balls are drawn at random without replacement, what is the probability
+that both are red?
+• none
+• 1/15
+√ 3/28
+• 0.4
+• 0.1
+555. In a bag of 10 marbles, 7 are black and 3 are white. What is the probability of drawing two black marbles in a row without replacement?
+• 0.8
+• none
+√ 21/45
+• 7/45
+• 0.7
+556. Company A produces 10% defective products, Company B produces 20% defective products and C produces 5% defective products. If
+choosing a company is an equally likely event, then find the probability that the product chosen is defective.
+√ 0.12
+• none
+• 0.32
+• 0.2
+• 0.1
+557. A stock of pens consists of 144 ball pens in which 20 pens are defective, and others are good. A girl went to the shop to purchase a pen.
+The shopkeeper randomly draws one pen and gives it to her. What is the probability that a girl will buy the good pen?
+• 1/3
+√ 31/36
+• 1/36
+• 1/6
+• none
+558. Suppose a number x is chosen from the numbers -2, -1, 0, 1, 2. What will be the probability of
+• 1
+• none
+√ 4/5
+• 1/5
+• 2/3
+559. The probability of success of three students X, Y and Z in the one examination are 1/5, 1/4 and 1/3 respectively. Find the probability of
+success of at least two.
+• none
+• 1/3
+• 1/2
+• 1/4
+√ 1/6
+560. A box contains 100 balls, numbered from 1 to 100. If three balls are selected at random and with replacement from the box, what is the
+probability that the sum of the three numbers on the balls selected from the box will be odd?
+√ 1/2
+• 1/6
+• 1/4
+• 1/3
+• none
+561. In a class, 30% of the students offered English, 20% offered Hindi and 10% offered both. If a student is selected at random, what is the
+probability that he. has offered English or Hindi ?
+• none
+• 4/5
+√ 2/5
+• 1/2
+• 3/4
+562. In a class, 30% of the students offered English, 20% offered Hindi and 10% offered both. If a student is selected at random, what is the
+probability that he. has offered English or Hindi ?
+• none
+√ 2/5
+• 1/2
+• 4/5
+• 3/4
+563. A man and his wife appear in an interview for two vacancies in the same post. The probability of husband's selection is (1/7) and the
+probability of wife's selection is (1/5). What is the probability that only one of them is selected ?
+• 4/5
+• none
+√ 2/7
+• 3/7
+• 3/4
+564.
+A restaurant offers the following options:
+Starter – soup or salad
+Main – chicken, fish or vegetarian
+Dessert – ice cream or cake
+How many possible different combinations of starter, main and dessert are there?
+• 15
+• none
+√ 12
+• 7
+• 8
+565. Arthur asked the students in his class whether they like math and whether they like science. He recorded his results in the Venn diagram
+below. How many students don’t like science?
+• 6
+• none
+√ 16
+• 23
+• 7
+566. Alice has some red balls and some black balls in a bag. Altogether she has 25 balls. Alice picks one ball from the bag. The probability
+that Alice picks a red ball is x and the probability that Alice picks a black ball is 4x. Work out how many black balls are in the bag.
+√ 20
+• none
+• 5
+• 6
+• 100
+567. A jar contains 10 blue, 8 green, and 6 red marbles. Every time a marble is removed from the jar, it is not replaced. What is the
+probability, to the nearest hundredth, that the second marble chosen is green if the first marble chosen is green?
+• 0.1
+• none
+• 0.2
+• 0.5
+√ 0.3
+568. The number of all the odd divisor is 3600 is
+√ 9
+• 7
+• 8
+• 2
+• 3
+569. Number of triangles that can be formed joining the angular points of decagon is
+√ 120
+• 236
+• 167
+• 178
+• 234
+570. A polygon has 65 diagonals. The number of its sides is
+√ 13
+• 54
+• 65
+• 76
+• 23
+571. The total number of flags with three horizontal strips, in order that can be formed using 2 identical red, 2 identical green and 2 identical
+white strips, is equal to:
+√ 4!
+• 45
+• 65
+• 87
+• 32
+572. Total number of 4 digit number that are greater than 3000, that can be formed using the digits 1,2,3,4,5,6 (no digits is being repeated in
+any number) is equal to:
+√ 240
+• 534
+• 365
+• 256
+• 234
+573. If letters of the word 'KUBER' are written in all possible orders and arranged as in a dictionary, then rank of the word 'KUBER' will be,
+• 56
+√ 67
+• 34
+• 23
+• 78
+574. All possible four digit numbers are formed using the digits 0,1,2,3 so that no number has repeated digits. The number of even numbers
+among them is
+√ None of these
+• 31
+• 13
+• 33
+• 12
+575. The number of arrangements of the letters of the word CALCUTTA
+√ 5040
+• 3636
+• 1557
+• 3252
+• 4532
+576. The number of 5 digit telephone numbers having at least one of their digits repeated is
+√ 69760
+• 7654
+• 2375
+• 5376
+• 12345
+577. How many words can be made from the letters of the word DELHI, if L comes in the middle in every word
+√ 24
+• 56
+• 26
+• 58
+• 34
+578. In how many ways can five examination papers be arranged so that physics and chemistry papers never come together
+√ 72
+• 32
+• 65
+• 23
+• 43
+579. Six identical coins are arranged in a row. The number of ways in which the number of tails is equal to the number of head is
+√ 20
+• 32
+• 21
+• 23
+• 45
+580. In how many ways can 5 prizes be distributed among four students when every student can take one or more prizes
+√ 1024
+• 3245
+• 1244
+• 123445
+• 4564
+581. Four dice (six faced) are rolled. The numbers of possible outcomes in which at least one die shows 2 is
+√ 671
+• 756
+• 896
+• 143
+• 456
+582. In how many ways can you distribute 5 identical chocolates to 3 children so that any child can get any number of chocolates from 0 to
+5?
+√ 21
+• 65
+• 63
+• 86
+• 34
+583. A man has 9 friends, 4 boys and 5 girls. In how many ways can he invite them, if there have to be exactly 3 girls in the invitees?
+√ 160
+• 654
+• 456
+• 658
+• 535
+584. In how many ways can 8 directors, vice-chairman, and chairman of a firm be selected at a round table if the chairman has to sit between
+the vice-chairman and a director?
+√ 8! * 2
+• 624
+• 846
+• 531
+• 5356
+585. In how many ways can you choose one or more of 5 different candies?
+√ 31
+• 62
+• 74
+• 58
+• 53
+586. 12 people at a party shake hands once with everyone else in the room. How many handshakes took place?
+√ 66
+• 45
+• 24
+• 74
+• 23
+587. How many ways can the letters of the word TREES be ordered such that each ‘word’ starts with a consonant and ends with a vowel?
+√ 18
+• 56
+• 76
+• 98
+• 43
+588. How many 4-letter words, with or without meaning, can be formed out of the letters of the word, ‘LOGARITHMS’ if repetition of
+letters is not allowed?
+√ 5040
+• 3425
+• 5689
+• 2356
+• 5667
+589. In a group of 6 boys and 4 girls, four children are to be selected. In how many different ways can they be selected such that at least one
+boy should be there?
+√ 209
+• 455
+• 253
+• 788
+• 235
+590. In how many ways can the letter of the word ‘PARISE’ be arranged so that no two vowels come together
+√ 144
+• 567
+• 546
+• 876
+• 453
+591. Four boys and three girls are to be seated for a dinner such that no two girls sit together and no two boys sit together. Find the number of
+ways in which this can be arranged.
+√ 144
+• 253
+• 876
+• 457
+• 346
+592. There are 35 teachers in a school. In how many different ways one principal and one vice principal can be chosen?
+• 1234
+√ 1190
+• 6346
+• 3466
+• 3244
+593. A student has 5 pants and 8 shirts. The number of ways in which he can wear the dress in different combinations is:
+√ 40
+• 65
+• 76
+• 87
+• 45
+594. Find the number of ways in which 5 players out of 8 players can be selected from a team.
+√ 56
+• 54
+• 98
+• 65
+• 67
+595. How many 4-letter codes can be formed using the first 9 letters of the English alphabet if no letter is repeated?
+• 8658
+• 8650
+• 2345
+√ 3024
+• 5745
+596. In how many ways can 3 people be seated in a row containing 6 seats?
+• 178
+• 234
+√ 120
+• 345
+• 637
+597. You have 4 different keychains. If you want to hang 3 of them in a row on your backpack, how many different arrangements can you
+make?
+√ 24
+• 6
+• 4
+• none
+• 12
+598. The number of ways 4 boys and 3 girls can be seated in a row so that they are alternate is:
+√ 144
+• none
+• 57
+• 95
+• 100
+599. A bag contains 50 tickets numbered 1,2,3,4......50 of which five are drawn at random and arranged in ascending order of magnitude.Find
+the probability that third drawn ticket is equal to 30.
+• 552/15379
+√ 551/15134
+• 1/2
+• 1/9
+• none
+600. A certain communication system is made up of 40 symbols. A maximum of two symbols placed together, order not mattering, make up
+a word. What is the maximum number of words in this communication system?
+√ 840
+• none
+• 800
+• 125
+• 120
+601. A dart is thrown randomly at the target below. The radius of the innermost circle is 2, and the radius of each circle doubles as the circles
+get bigger. What is the probability the dart will hit the shaded region, to the nearest hundredth of a percentage?
+• none
+√ 0.8
+• 1.2
+• 1
+• 1.5
+602. Seventy people are seated at a dinner party. Each table at the party can seat eight people. What is the minimum number of tables needed
+for the party?
+√ 9
+• none
+• 12
+• 10
+• 8
+603. A teacher gives stickers to students as a reward for good work. The stickers are on a long strip and re- peat in a regular order: Balloon,
+Happy Face, Clown Face, and Spaceship. What are the 63rd and 65th stickers handed out by the teacher?
+• Spaceship and Clown Face
+√ Clown face and Balloon
+• Balloon and Happy Face
+• Balloon and Spaceship
+• Clown Face and Happy Face
+604. Five people, all different ages, are arranged in a row so that the oldest person is in the middle and the two youngest people are on the
+ends. How many differ- ent arrangements of this type exist?
+• none
+• 2
+• 12
+• 8
+√ 4
+605. How many different ways can a 6-member jury be selected from a pool of 12 men and 8 women if the jury must contain exactly 4 men
+and 2 women?
+• none
+√ 13860
+• 1860
+• 10200
+• 3670
+606. In a race with 10 runners where no ties are allowed, how many ways can the first, second, and third place be decided?
+√ 720
+• 1000
+• 120
+• 60
+• none
+607. How many different 7-digit telephone numbers can be made if the first digit cannot be 0 and repetition is allowed?
+• 1000
+√ 9,000,000
+• none of the above
+• 10,000
+• 10,000,000
+608. In how many ways can 5 books be arranged on a shelf if 2 specific books must be together?
+√ 48
+• 120
+• 24
+• 96
+• None of the above
+609. A diagnostic test for a disease is 99% accurate. If the disease affects 1 out of 1000 people, what is the probability that a person has the
+disease if they test positive (using Bayes' Formula)?
+• none
+√ 0.0902
+• 0.75
+• 0.25
+• 0.5
+610. In a classroom of 30 students, 18 students play basketball and 12 play football. 8 students play both sports. What is the probability that a
+student plays football given they play basketball?
+• 0.4
+• 0.2
+• 1/9
+• none
+√ 4/9
+611. A coin is biased so that it lands heads 60% of the time. If it is flipped three times, what is the probability that it lands heads all three
+times?
+• 0.8
+√ 0.216
+• 0.3
+• none
+• 0.12
+612. A store finds that the probability a new customer will make a purchase is 25%. If three new customers come into the store, what is the
+probability that exactly one of them will make a purchase?
+√ 0.4219
+• 0.8
+• none
+• 0.276
+• 0.17
+613. A diagnostic tool has a 5% false positive rate and a 10% false negative rate. The disease prevalence in the population is 3%. Using
+Bayes' Theorem, what is the probability that a person does not have the disease given a negative test result?
+√ 0.997
+• 0.85
+• 0.7
+• 0.1
+• none
+614. In a data set, the probability of event A occurring is 0.3 and the probability of event B occurring is 0.5. If A and B are independent, what
+is the probability of both A and B occurring?
+• 0.27
+• none
+• 0.8
+• 0.3
+√ 0.15
+615. A test for a specific virus is 90% sensitive (true positive rate) and 95% specific (true negative rate). If the prevalence of the virus in the
+population is 2%, what is the probability that a person has the virus given they tested positive?
+• 0.11
+√ 0.27
+• 0.8
+• 0.4
+• none
+616. If the probability of rain on any day is 20%, what is the probability that it will rain on exactly two days out of a three-day period?
+• 0.7
+• 0.26
+• 0.25
+√ 0.096
+• none
+617. Given that a person tested positive for a disease that has a 1% prevalence rate and the test has a 99% accuracy rate, what is the
+probability that the person actually has the disease (using Bayes' Theorem)?
+√ 0.5
+• none
+• 0.7
+• 0.3
+• 0.1
+618. A diagnostic test has a sensitivity of 95% and a specificity of 90%. If the disease prevalence in the population is 2%, what is the
+probability that a person does not have the disease given a negative test result?
+• none
+• 0.2
+• 0.46
+• 0.7635
+√ 0.9991
+619. If flipping a coin twice, what is the probability that the first flip is heads given that at least one flip results in heads?
+√ 0.666
+• 0.2
+• none
+• 0.265
+• 0.256
+620. What is the probability that a leap year has at least one Friday the 13th?
+• 0.26
+√ 0.97
+• 0.8
+• 0.7
+• none
+621. A bag contains 5 red and 7 blue marbles. If two marbles are drawn without replacement, what is the probability that both are red?
+√ 10/33
+• 1/3
+• 0.3
+• 0.1
+• none
+622. If there is a 10% chance of rain on any given day, what is the probability that it rains at least once in three days?
+• none
+• 0.3
+√ 0.271
+• 0.64
+• 0.2
+623. In a medical test, the probability of testing positive if you are healthy is 0.01. If 5% of the population is sick, using Bayes' theorem, what
+is the probability of being healthy if tested positive?
+• 0.6
+• none
+√ 0.98
+• 0.37
+• 0.7
+624. When testing a new drug, a positive result occurs 95% of the time when the drug is effective and 5% of the time when it is not effective.
+If the drug is effective in 60% of cases, what is the probability it is effective given a positive test result?
+• 0.87
+• 0.2
+• 0.125
+√ 0.958
+• none
+625. Using Bayes' Theorem, calculate the probability that a person has a rare disease (1% prevalence) given that they have tested positive on
+a test that is 99% accurate.
+√ 0.5
+• none
+• 0.7
+• 0.3
+• 0.1
+626. Using Bayes' formula, what is the probability of a disease if a test is positive, given that the test has a 5% false positive rate, a 10% false
+negative rate, and the disease prevalence is 1%?
+√ 0.16
+• none
+• 0.1
+• 0.3
+• 0.25
+627. The probability of solving the specific problems independently by A and B are 1/2 and 1/3 respectively. If both try to solve the problem
+independently, find the probability that exactly one of them solves the problem.
+• 1
+√ 1/2
+• 1/3
+• 1/4
+• none
+628. An urn contains 10 black and 5 white balls. Two balls are drawn from the urn one after the other without replacement. What is the
+probability that both drawn balls are black?
+• none
+√ 3/7
+• 1/7
+• 1/3
+• 1/6
+629. A bag contains 3 red and 7 black balls. Two balls are drawn at randon without replacement. If the second ball is red, what is the
+probability that the first ball is also red?
+• none
+√ 2/9
+• 1/9
+• 1/8
+• 1/4
+630. In a survey among few people, 60% read Hindi newspaper, 40% read English newspaper and 20% read both. If a person is chosen at
+random and if he already reads English newspaper find the probability that he also reads Hindi newspaper.
+• 1
+√ 0.5
+• 0.4
+• 0.2
+• none
+631. The probability of a student passing in science is 4/5 and the of the student passing in both science and maths is 1/2. What is the
+probability of that student passing in maths knowing that he passed in science?
+√ 5/8
+• none
+• 1
+• 4/5
+• 1/4
+632. In a survey, each respondent randomly selects a number from 1 to 4, with each number representing a preference level from dislike to
+like very much. If the variance of these selections is 1.25, what does this indicate about the distribution of preferences?
+• The preferences are mostly extreme (1 or 4)
+• The preferences are uniformly distributed
+• none
+√ The preferences vary widely
+• The preferences are mostly moderate (2 or 3)
+633. A quiz competition involves answering 10 true/false questions correctly. If a contestant guesses on each question, what is the expected
+value of the number of correct answers?
+• 10
+• none
+√ 5
+• 2
+• 8
+634. A raffle offers a 1% chance to win $100, a 2% chance to win $50, and a 97% chance to win nothing. What is the expected value of
+entering the raffle?
+• 8
+√ 2
+• 4
+• 6
+• none
+635. In a game, a player rolls two six-sided dice. If the sum of the dice equals 7, the player wins $10; otherwise, the player wins nothing.
+What is the expected value of the winnings for one roll?
+• none
+√ 1.67
+• 2.5
+• 3
+• 6
+636. A vending machine dispenses coffee into a six-ounce cup. Due to variability in the dispenser, the amount of coffee dispensed is
+normally distributed with a mean of 6 ounces and a variance of 0.04 ounce. What is the expected value of coffee dispensed?
+• 5
+• none
+• 2
+• 4
+√ 6
+637. A jar contains 4 blue, 5 red, and 6 green marbles. If one marble is drawn at random, what is the expected value of drawing a green
+marble (assign value 1 for green and 0 for others)?
+• none
+√ 0.6
+• 0.7
+• 0.5
+• 0.4
+638. A lottery has 1000 tickets and one of them is a winner. Each ticket costs $1. If the prize for the winning ticket is $500, what is the
+expected value of buying one ticket?
+• 0.4
+√ 0.5
+• none
+• 4
+• 2
+639. If you have a bag with 3 red marbles and 2 green marbles, and you draw one marble at random, what is the expected value of drawing a
+red marble (assign value 1 for red and 0 for green)?
+• none
+• 0.3
+√ 0.6
+• 1
+• 1.5
+640. A fair six-sided die is rolled. What is the variance of the numbers that show up?
+• 5.5
+• none
+• 3
+√ 2.92
+• 4
+641. A spinner is divided into three equal sections colored red, blue, and green. If spinning the spinner results in red, a player wins $2; for
+blue, $4; and for green, $6. What is the expected winnings per spin?
+• 12
+√ 4
+• 3
+• none
+• 8
+642. In a certain game, a player rolls a single six-sided die. The player wins an amount in dollars equal to the square of the number shown on
+the die. What is the variance of the winnings?
+• 12
+• 10
+• none
+√ 11.67
+• 14.5
+643. A raffle ticket drawing has a 0.1% chance of winning $1000 and a 99.9% chance of winning nothing. What is the expected value of
+purchasing one ticket?
+• none
+• 100
+• 10
+√ 0.1
+• 1
+644. A game involves rolling two fair dice. If the sum of the numbers on the two dice is greater than 8, the player wins $5. If not, the player
+wins nothing. What is the expected value of the winnings?
+• 6
+• 4
+• none
+√ 2.25
+• 3.5
+645. A dice game involves rolling a single six-sided die. If the die shows an even number, the player wins that many dollars; otherwise, the
+player wins nothing. What is the expected value of the amount won per roll?
+√ 2
+• none
+• 3
+• 4
+• 1
+646. A lottery ticket has a 1 in 1000 chance of winning $500 and a 999 in 1000 chance of winning nothing. What is the expected value of
+buying one ticket?
+• 2.5
+√ 0.5
+• none
+• 5
+• 1
+647. A game involves tossing a coin three times. A player wins $1 for each head that appears. What is the expected value of the amount won?
+√ 1.5
+• 1
+• none
+• 3
+• 2
+648. A random variable X has the probability distribution as: P(3)=1/6, P(6)=1/2, P(9)=1/3
+√ 213
+• none
+• 315
+• 100
+• 150
+649. A math class has an equal number of boys and girls. If a girl has an 80% chance of passing a test, and a boy has a 70% chance, and one
+student passes, what is the probability the student was a girl?
+• 0.8
+√ 0.533
+• none
+• 0.7
+• 0.62
+650. Using Bayes’ Theorem, if the probability of a car starting is 99% and the probability of leaving on time given the car starts is 95%, what
+is the probability of leaving on time?
+• none
+• 0.3
+√ 0.9405
+• 0.726
+• 0.48
+651. Two bulbs are tested for durability, each has a 95% chance of lasting more than 1000 hours. Assuming independence, what is the
+probability that both bulbs last more than 1000 hours?
+• 0.625
+√ 0.9025
+• 0.2
+• 0.5
+• none
+652. A fire alarm has a 98% chance of activating correctly when there is a fire and a 1% chance of activating without a fire. If there is a 0.1%
+chance of a fire at any time, what is the probability there is a fire given the alarm has activated?
+• 0.3
+• 0.15
+• 0.35
+• none
+√ 0.0898
+653. A batch of 100 items includes 10 defective ones. If a sample of 20 items is randomly selected without replacement, what is the
+probability that exactly 2 of the sampled items are defective (Hypergeometric Distribution)?
+√ 0.3558
+• none
+• 0.624
+• 0.25
+• 0.8
+654. A survey contains questions answered by marking one of four choices. If a person guesses on all questions, what is the probability of
+guessing exactly half of the answers correctly in a 12-question survey (Binomial Distribution)?
+• 0.26
+√ 0.0537
+• 0.635
+• 0.2
+• none
+655. In a typical week, a small customer service center receives an average of 50 calls. What is the probability that they will receive exactly
+40 calls in a given week (Poisson Distribution)?
+• none
+• 0.6
+√ 0.0563
+• 0.625
+• 0.763
+656. In a clinical trial, 10% of participants are expected to have a specific side effect. If 150 participants are enrolled, what is the probability
+that fewer than 20 participants will experience the side effect (Binomial Distribution)?
+√ 0.9523
+• none
+• 0.625
+• 0.72
+• 0.635
+657. A committee of 4 members is to be formed from a group of 10 men and 6 women. What is the probability that exactly 2 members of the
+committee will be women (Hypergeometric Distribution)?
+√ 0.3968
+• none
+• 0.74
+• 0.26
+• 0.736
+658. Assuming a normal day, a certain bus stop experiences an average of 3 buses per hour. What is the probability that exactly 4 buses will
+arrive in the next hour (Poisson Distribution)?
+√ 0.168
+• none
+• 0.35
+• 0.22
+• 0.3
+659. In a marketing campaign, the probability of a customer responding to an ad is 5%. What is the probability that out of 100 customers,
+exactly 3 will respond (Binomial Distribution)?
+• none
+√ 0.0614
+• 0.35
+• 0.25
+• 0.357
+660. A lot contains 15 products of which 5 are defective. If 3 products are randomly selected without replacement, what is the probability
+that exactly 1 is defective (Hypergeometric Distribution)?
+• none
+√ 0.4643
+• 0.36
+• 0.25
+• 0.356
+661. A bookstore sees an average of 12 customers per hour. Using a Poisson distribution, what is the probability that exactly 10 customers
+will visit in the next hour?
+• none
+• 0.58
+√ 0.1048
+• 0.46
+• 0.34
+662. During a phone survey, 30% of people agree to participate. If 20 people are called, what is the probability that exactly 6 will agree to
+participate (Binomial Distribution)?
+√ 0.2023
+• none
+• 0.636
+• 0.345
+• 0.346
+663. A fisherman notices that on average, he catches 3 fish per hour. Using a Poisson distribution, what is the probability that he will catch
+exactly 5 fish in the next hour?
+• none
+• 0.3645
+• 0.478
+• 0.37
+√ 0.1008
+664. In a quality check process, each unit has a 2% chance of failing. What is the probability that out of 50 units, exactly 1 will fail (Binomial
+Distribution)?
+√ 0.3715
+• none
+• 0.237
+• 0.73
+• 0.646
+665. A test consists of 12 multiple choice questions. Each question has four choices with one correct answer. If a student guesses on all
+questions, what is the probability of guessing exactly 3 questions correctly (Binomial Distribution)?
+• 0.25
+√ 0.236
+• none
+• 0.736
+• 0.54
+666. A light bulb manufacturing process results in 1% of bulbs being defective. If 100 bulbs are tested, what is the probability that exactly
+one bulb is defective (Binomial Distribution)?
+• 0.54
+• 0.76
+• none
+√ 0.3697
+• 0.125
+667. A classroom contains 22 students: 10 boys and 12 girls. If a student is chosen at random to answer a question, what is the probability
+that the student is a girl?
+• none
+• 0.2
+√ 6/11
+• 2/3
+• 0.1
+668. In a group of 20 people, 7 have studied Latin, 8 have studied Greek, and 5 have studied neither. What is the probability that a person
+selected at random has studied both Latin and Greek (assuming independence for simplicity)?
+• 0.5
+• none
+√ 0.28
+• 0.75
+• 0.2
+669. A box contains 8 red, 2 blue, and 5 green marbles. If 4 marbles are drawn without replacement, what is the probability that exactly 2 of
+them are red (Hypergeometric Distribution)?
+• none
+• 0.43
+√ 0.3535
+• 0.536
+• 0.3
+670. A raffle has 100 tickets, and you buy 10 of them. The organizer draws 10 tickets to determine winners. What is the probability that
+exactly 3 of your tickets are winners (Hypergeometric Distribution)?
+• 0.257
+• none
+√ 0.0573
+• 0.754
+• 0.425
+671. Assuming an average of 4 power outages per year in a city, what is the probability that there will be exactly 3 power outages next year
+(Poisson Distribution)?
+• 0.6
+• none
+√ 0.1954
+• 0.76
+• 0.4
+672. In a lot of 30 balls, 10 are red and 20 are blue. If 6 balls are picked at random without replacement, what is the probability that exactly 3
+of them are red (Hypergeometric Distribution)?
+√ 0.4762
+• none
+• 0.6
+• 0.8
+• 0.87
+673. A quality control test involves checking 10 items that were selected from a production line that turns out 1% defective items. What is
+the probability that none of the tested items are defective (Binomial Distribution)?
+• 0.4
+• none
+√ 0.9044
+• 0.675
+• 0.2
+674. In a deck of 52 cards, 12 are face cards. If you draw 5 cards without replacement, what is the probability that exactly 2 are face cards
+(Hypergeometric Distribution)?
+• 0.1
+• none
+√ 0.3257
+• 0.5
+• 0.76
+675. The first variable "n" in a Binomial experiment shows the _____ the experiment is performed.
+• None of the above
+• Number of success
+√ Number of times
+• Range
+• Variety
+676. When is it appropriate to use the Pearson correlation coefficient to analyze the relationship between two variables?
+• When the data sets have outliers.
+• When the relationship is non-linear.
+√ When both variables are measured on at least interval scales and are approximately normally distributed.
+• When one variable is categorical.
+• none
+677. What does a correlation coefficient of -1 indicate about the relationship between two variables?
+• The correlation cannot be determined.
+• none
+√ The variables have a perfect negative linear relationship.
+• The variables are completely uncorrelated.
+• The variables have a perfect positive linear relationship.
+678. Why is it important to use the correlation coefficient rather than covariance when comparing relationships between datasets with
+different units of measurement?
+• Correlation provides less precise information.
+√ Covariance can be affected by the scale of the data.
+• Covariance is always zero for such comparisons.
+• Correlation cannot be calculated for different units.
+• none
+679. Which of the following statements is true regarding the relationship between covariance and the correlation coefficient?
+• Correlation coefficients can have much larger values than covariance.
+• They are unrelated statistical measures.
+√ Correlation is a normalized form of covariance.
+• Covariance is always larger than the correlation coefficient.
+• none
+680. If two variables have a correlation coefficient close to 0, what does this imply?
+• none
+√ There is no linear relationship.
+• There is a strong negative linear relationship.
+• There is a strong positive linear relationship.
+• The data cannot be analyzed.
+681. What does the cumulative distribution function (CDF) tell us about a continuous random variable?
+• The probability that the variable exceeds a certain value.
+√ The probability that the variable is less than or equal to a certain value.
+• The probability that the variable is within a specific range.
+• none
+• The probability that the variable is exactly a certain value.
+682. What is the z-score if the probability to the left of x is 0.975 if the variable has a normal distribution?
+• -2
+• -1
+• 3
+√ 2
+• 1
+683. If a variable has a normal distribution with mean = 100 and SD = 15, what is the z-score for x = 130?
+• 1
+• 1.5
+√ 2
+• -2
+• -1
+684. The probability that a z-score is greater than 2 is approximately:
+√ 0.025
+• 0.95
+• 0.1
+• 0.5
+• 0.25
+685. If the mean of a normal distribution is 60 and the standard deviation is 4, what is the value corresponding to z = -2?
+• 55
+• 68
+√ 52
+• 50
+• 48
+686. The area to the left of z = 0 in the standard normal distribution is:
+• 0
+• 0.6
+√ 0.5
+• 0.84
+• 0.2
+687. What is the probability (approximately) that a value falls within 1 standard deviation from the mean in a normal distribution?
+√ 68
+• 45
+• 65
+• 75
+• 50
+688. A normal distribution has a mean of 50 and a standard deviation of 5. What is the z-score for a value of 60?
+√ 2
+• -2
+• -1
+• 0
+• 1
+689. What is meant by the marginal distribution of a variable in the context of jointly distributed random variables?
+• It is the distribution of the sum of two random variables.
+• It is the distribution obtained by multiplying the distributions of two variables.
+• It refers to the most common distribution in a set of variables.
+• none
+√ It is the distribution considering only one of the variables, integrating or summing out the other variables.
+690. How does increasing the sample size affect the sampling error?
+• It initially decreases then increases the sampling error.
+• It increases the sampling error.
+√ It decreases the sampling error.
+• It has no effect on the sampling error.
+• none
+691. For tracking the progress of two runners' speeds over the course of a race, which graph type is most appropriate?
+• none
+• Pie chart
+√ Line graph
+• Histogram
+• Scatter plot
+692. What type of graph would be most effective for showing how the proportion of market share among four companies changes over a
+year?
+√ Stacked bar graph
+• Pie chart
+• Bar graph
+• Line graph
+• none
+693. For illustrating how different stock prices change every minute, which type of graph is most suitable?
+• Pie chart
+• none
+• Scatter plot
+• Bar graph
+√ Line graph
+694. How does an increase in variability affect the mean and median?
+• It causes both the mean and median to increase.
+√ It does not necessarily change the mean or median.
+• It reduces the distance between the mean and median.
+• none
+• It causes both the mean and median to decrease.
+695. In the context of salary data, why might the median be preferred over the mean as a measure of central tendency?
+• The median is easier to calculate.
+• The mean is always higher than the median.
+√ The median is less affected by very high or very low salaries.
+• none
+• The median can be used with categorical data.
+696. What does the interquartile range (IQR) measure in a data set?
+• none
+• The average of all data points.
+• The range of all data points.
+√ The spread of the middle 50% of the data.
+• The frequency of the mode.
+697. Which measure of central tendency is calculated by adding all the numbers and dividing by the count of numbers?
+√ mean
+• median
+• mode
+• none
+• midrange
+698. In a data set, if multiple modes are identified, what type of distribution is it?
+• none
+• Trimodal.
+• Bimodal.
+• Unimodal.
+√ Multimodal.
+699. How does the trimmed mean help in providing a more robust measure of central tendency?
+• none
+• By squaring each value to eliminate negatives.
+• By converting all values to their absolute numbers.
+√ By excluding the highest and lowest values from the data set.
+• By multiplying each value by a factor of the standard deviation.
+700. When the data are symmetrically distributed, which measures of central tendency are typically equal?
+√ Mean, median, and mode.
+• none
+• Mean and mode.
+• Median and mode.
+• Mean and median.
