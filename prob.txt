@@ -1481,8 +1481,7 @@ P(not Canadian). This is a ___________________________event.
 • 4
 233. Something that is unlikely to happen has a probability of between
 • 3 and 4
-•
-0.5 and 1
+• 0.5 and 1
 √ 0 and 0.5
 • 1 and 2
 • 2 and 3
